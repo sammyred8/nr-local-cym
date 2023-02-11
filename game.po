@@ -4,72 +4,72 @@
 #v1.6.13
 msgctxt "constraint_demote_platforms"
 msgid "Demote into normal track"
-msgstr "Convertir a vía normal"
+msgstr "Newid i drac anianol"
 
 #v1.6.13
 msgctxt "delete_only_bp"
 msgid "Delete only blueprints"
-msgstr "Borrar solo planos"
+msgstr "Dileu glasluniau yn unig"
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
-msgstr "Cinta de edificio"
+msgstr "Incil adeilad"
 
 #v1.6.13
 msgctxt "editor_sat_parallel_tape"
 msgid "Parallel track tape"
-msgstr "Cinta paralela"
+msgstr "Incil amldrac"
 
 #v1.6.13
 msgctxt "editor_sat_platform_tape"
 msgid "Station platform tape"
-msgstr "Cinta de andén"
+msgstr "Incil platfform gorsaf"
 
 #v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
-msgstr "Convertir en andén"
+msgstr "Newid traciau i blatfformau gorsaf"
 
 #v1.6.13
 msgctxt "editor_sat_split"
 msgid "Split tracks"
-msgstr "Partir la vía"
+msgstr "Torri traciau"
 
 #v1.6.13
 msgctxt "editor_sat_track_tape"
 msgid "Track tape"
-msgstr "Cinta de vía"
+msgstr "Incil trac"
 
 #v1.6.13
 msgctxt "editor_tip_create_del_inline"
 msgid "Shift-Del to delete selected inner tracks"
-msgstr "Shift-Del para borrar las vías interiores"
+msgstr "Sifft-Dil i ddileu traciau mewnol dewisedig"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
 msgid "Alt to create symmetrical buildings on both sides of the track"
-msgstr "Alt para crear edificios simétricos a ambos lados de la vía"
+msgstr "Alt i greu adeiladau symetric ar ddwy ochr y trac"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_left"
 msgid "Click near tracks to create new attached buildings"
-msgstr "Click cerca de las vías para crear edificios"
+msgstr "Cliciwch oddi agos traciau i greu adeiladau newydd atodi"
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_shift"
 msgid "Shift to create buildings in all children when starting in a parent track"
-msgstr "Shift para crear edificios en todas las vías paralelas"
+msgstr "Sifft i greu adeiladau ym mhob plant pan cychwyn mewn trac rhiant"
 
 #v1.6.13
 msgctxt "editor_tip_sat_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc to go para volver a modo de edición"
+msgstr "Esc i fynd i'r modd golygu"
 
 #v1.6.13
 msgctxt "editor_tip_sat_parallel_tape_left"
 msgid "Click on tracks to attach new parallel tracks"
-msgstr "Click en vías para añadir nuevas vías paralelas"
+msgstr "Cliciwch ar traciau i atodi amldracau newydd"
 
 #v1.6.13
 msgctxt "editor_tip_sat_platform_tape_left"
@@ -79,12 +79,12 @@ msgstr "UNUSED Click on tracks to tape them over with a new station platform"
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
 msgid "Click on tracks to promote them and their nearest sibling into a station platform"
-msgstr "Click en vías para convertirlas en andenes"
+msgstr "Cliciwch ar traciau i newid hwy a'u brawd agosaf at blatfform gorsaf"
 
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
 msgid "Click on tracks to split them at the point of click"
-msgstr "Click en vías para partirlas en el punto del click"
+msgstr "Cliciwch ar traciau i dorri hwy a'r pwynt clic"
 
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
@@ -94,147 +94,147 @@ msgstr "UNUSED Click on tracks to tape them over with a new station"
 #v1.6.13
 msgctxt "editor_tip_sat_track_tape_left"
 msgid "Click on tracks to tape them over with new kind and layer of track"
-msgstr "Click en vías para cubrirlas con otro tipo de vía"
+msgstr "Cliciwch ar traciau i dapio dros hwy gyda math a lefel trac newydd"
 
 #v1.6.13
 msgctxt "editor_tip_weight_left"
 msgid "Release left button to stop moving the track weighting"
-msgstr "Suelta el botón izquierdo para dejar de mover el control de curva"
+msgstr "Gollyngwch botwm chwith i stopio symud y pwysiad trac"
 
 #v1.6.13
 msgctxt "game_wiki"
 msgid "NIMBY Rails Wiki"
-msgstr "NIMBY Rails Wiki"
+msgstr "Wici NIMBY Rails"
 
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr "No se puede detectar una IP pública, utiliza Steam Relay"
+msgstr "Methu canfod cyfeiriad IP cyhoeddus, defnyddiwch Steam Relay"
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "Tu PC o router necesita una conexión directa a internet con IP pública. Tienes que hacer forward del puerto UDP {} a tu PC y abrirlo en el firewall para aceptar conexiones. VPNs, proxies y CG-NAT son incompatibles con este modo de conexión. Weird and Wry no puede ofrecer soporte técnico si este modo no funciona."
+msgstr "Mae rhaid eich cyfrifiadur neu llwybrydd wedi cysylltiad uniongyrchol i'r rhyngrwyd gyda chyfeiriad IP cyhoeddus. Mae rhaid i chi anfon porth UDP {} tu mewn eich llwybrydd ymlaen at eich cyfrifiadur a chydosod eich mur gwarchod i ganiatáu cysylltiadau. Bydd VPNau, dirprwyon ac CG-NAT yn trechu y nodwedd hon. Mae Weird and Wry yn analluog i gynnig cymorth technegol os y nodwedd ddim yn gweithio trwy eich cysylltiad."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
 msgid "Detected public IPv4:"
-msgstr "IPv4 detectada:"
+msgstr "Cyfeiriad IPv4 cyhoeddus wedi'i ganfod:"
 
 #v1.6.13
 msgctxt "host_server_ipv6"
 msgid "Detected public IPv6:"
-msgstr "IPv6 detectada:"
+msgstr "Cyfeiriad IPv6 cyhoeddus wedi'i ganfod:"
 
 #v1.6.13
 msgctxt "host_server_mode"
 msgid "Connection:"
-msgstr "Conexión:"
+msgstr "Cysylltiad:"
 
 #v1.6.13
 msgctxt "host_server_mode_direct"
 msgid "Direct"
-msgstr "Directa"
+msgstr "Uniongyrchol"
 
 #v1.6.13
 msgctxt "host_server_mode_direct_desc"
 msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
-msgstr "Los clientes intentarán conectarse directamente a tu PC mediante tu IP pública.\nPermite hospedar partidas muy grandes si tu conexión tiene suficiente subida."
+msgstr "Bydd cleientiaid yn ymgeisio i gysylltu i'ch cyfrifiadur yn syth gyda'ch cyfeiriad IP cyhoeddus.\nMae galluogi'r lletya saernïaethau mwy os eich cysylltiad wedi digon o lled band i fyny."
 
 #v1.6.13
 msgctxt "host_server_mode_relay"
 msgid "Steam Relay Network"
-msgstr "Steam Relay Network"
+msgstr "Rhwydwaith Steam Relay"
 
-#v1.6.13
+#v1.6.1
 msgctxt "host_server_mode_relay_desc"
 msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
-msgstr "Los clientes se conectarán mediante Steam Relay Network.\nEste es un método seguro que oculta tu IP pero tiene límites de ancho de banda."
+msgstr "Mae cleientiaid yn cysylltu i'ch cyfrifiadur gyda Rhwydwaith Steam Relay.\nDyma ffordd diogel ac wedi'i optimeiddio a chuddio eich cyfeiriad IP ond yn cael cap lled band."
 
 #v1.6.13
 msgctxt "host_server_port"
 msgid "UDP Port:"
-msgstr "Puerto UDP:"
+msgstr "Porth UDP:"
 
 #v1.6.13
 msgctxt "host_server_wait_ip"
 msgid "Detecting public IP..."
-msgstr "Detectando IP pública..."
+msgstr "Yn canfod cyfeiriad IP cyhoeddus..."
 
 #v1.6.13
 msgctxt "host_sim_mode"
 msgid "Simulation:"
-msgstr "Simulación:"
+msgstr "Efelychiad:"
 
 #v1.6.13
 msgctxt "host_sim_mode_private"
 msgid "Private"
-msgstr "Privada"
+msgstr "Preifat"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
-msgstr "El reloj, el movimiento de trenes y los pax son independientes para cada cliente.\nVías, líneas y trenes se editan cooperativamente.\nPermite jugar partidas más grandes que en modo compartido.\nLa partida siempre se cambia a modo de dinero ilimitado."
+msgstr "Mae amser, symudiad trên ac efelychiad teithwyr yn annibynnol am pob cleient.\nMae traciau, leiniau a threnau yn golygu yn cydweithredol.\nMae'n graddio i feintiau mwy na efelychiad wedi'i gydrannu.\nMae gemau yn osod i arian diderfyn."
 
 #v1.6.13
 msgctxt "host_sim_mode_shared"
 msgid "Shared"
-msgstr "Compartida"
+msgstr "Cydrannu"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
 msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
-msgstr "El reloj, el movimiento de trenes y los pax se comparten y sincronizan entre todos los clientes.\nVías, líneas y trenes se editan cooperativamente."
+msgstr "Mae amser, symudiad trên ac efelychiad teithwyr yn rhannu ac yn cyamseru dros holl cleientiaid.\nMae traciau, leiniau a threnau yn golygu yn cydweithredol."
 
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
 msgid "Tracks: building tape"
-msgstr "Vías: cinta de edificios"
+msgstr "Traciau: incil adeiladu"
 
 #v1.6.13
 msgctxt "kb_track_sat_parallel_tape"
 msgid "Tracks: parallel tape"
-msgstr "Vías: cinta paralela"
+msgstr "Traciau: incil amldrac"
 
 #v1.6.13
 msgctxt "kb_track_sat_split"
 msgid "Tracks: split"
-msgstr "Vías: partir vía"
+msgstr "Traciau: torrwch"
 
 #v1.6.13
 msgctxt "kb_track_sat_station_tape"
 msgid "Tracks: station tape"
-msgstr "Vías: cambiar a andén"
+msgstr "Traciau: incil gorsaf"
 
 #v1.6.13
 msgctxt "kb_track_sat_track_tape"
 msgid "Tracks: track tape"
-msgstr "Vías: cinta de vías"
+msgstr "Traciau: incil trac"
 
 #v1.6.13
 msgctxt "key_info_hold"
 msgid "[Hold: {}]"
-msgstr "[Mantén: {}]"
+msgstr "[Gafaelwch: {}]"
 
 #v1.6.13
 msgctxt "key_info_hold_missing"
 msgid "[Missing key bind]"
-msgstr "[No tiene tecla asignada]"
+msgstr "[Rhwymiad bysell goll]"
 
 #v1.6.13
 msgctxt "loader_loading_db"
 msgid "Loading database"
-msgstr "Cargando base de datos"
+msgstr "Cronfa ddata yn llwytho"
 
 #v1.6.13
 msgctxt "loader_loading_sim"
 msgid "Loading simulation state"
-msgstr "Cargando estado de simulación"
+msgstr "Cyflwr efelychiad yn llwytho"
 
 #v1.6.13
 msgctxt "loader_validating_db"
 msgid "Validating database"
-msgstr "Validando base de datos"
+msgstr "Cronfa ddata yn dilysu"
 
 #v1.6.13
 msgctxt "mod_open_folder"
@@ -244,97 +244,97 @@ msgstr "UNUSED Open mod.txt"
 #v1.6.13
 msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
-msgstr "Convertir andén a vía normal"
+msgstr "Newidiwch platfform i trac anianol"
 
 #v1.6.13
 msgctxt "stream_waiting_for_player"
 msgid "Waiting for player {}"
-msgstr "Esperando a jugador {}"
+msgstr "Aros am chwaraewr {}"
 
 #v1.6.13
 msgctxt "tape_building_props"
 msgid "Tape building properties"
-msgstr "Propiedades de cinta de edificio"
+msgstr "Dewisiadau incil adeiladu"
 
 #v1.6.13
 msgctxt "tape_warn_built"
 msgid "Already built"
-msgstr "Ya construido"
+msgstr "Wedi'i adeiladu"
 
 #v1.6.13
 msgctxt "tape_warn_invalid_elements"
 msgid "Invalid geometry or elements"
-msgstr "Elemntos de vía o geometría inválida"
+msgstr "Geometreg neu elfennau annilys"
 
 #v1.6.13
 msgctxt "tape_warn_invalid_length"
 msgid "Invalid length"
-msgstr "Longitud inválida"
+msgstr "Hyd annilys"
 
 #v1.6.13
 msgctxt "tape_warn_too_complex"
 msgid "Too complex"
-msgstr "Demasiado complejo"
+msgstr "Rhy cymhleth"
 
 #v1.6.13
 msgctxt "tape_warn_too_long"
 msgid "Too long"
-msgstr "Demasiado largo"
+msgstr "Rhy hir"
 
 #v1.6.13
 msgctxt "track_sat_tools"
 msgid "Split and tape tools"
-msgstr "Partir y encintar"
+msgstr "Offerynnau torri a tapio"
 
 #v1.6.13
 msgctxt "trackeditor_hold_keybinds"
 msgid "Track tool keybind hold mode"
-msgstr "Mantener pulsadas teclas en editor"
+msgstr "Modd gafael rhwymiad bysell offeryn trac"
 
 #v1.6.13
 msgctxt "train_bulk_change_orders"
 msgid "Change orders in selection"
-msgstr "Cambiar órdenes en la selección"
+msgstr "Newidiwch gorchmynion i mewn detholiad"
 
 #v1.6.13
 msgctxt "train_bulk_intervention"
 msgid "Intervene selection"
-msgstr "Intervenir la selección"
+msgstr "Ymyrrydu detholiad"
 
 #v1.6.13
 msgctxt "train_bulk_sell"
 msgid "Sell selection"
-msgstr "Vender selección"
+msgstr "Gwerthu detholiad"
 
 #v1.6.13
 msgctxt "train_info_camera"
 msgid "Auto scroll map following train position"
-msgstr "Mover el mapa siguiendo la posición del tren"
+msgstr "Awtosgrolio'r fap yn dilyn lleoliad trên"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
 msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
-msgstr "Mostrar camino potencial del tren hasta la posición del ratón\nClick para fijar la posición"
+msgstr "Archwilio llwybr o trên i lleoliad llygoden\nCliciwch i sicrhau'r lleoliad llygoden"
 
 #v1.6.13
 msgctxt "train_info_path_probe_dest"
 msgid "Pathfind probe from train to its current destination"
-msgstr "Mostrar camino potencial del tren hasta su destino actual"
+msgstr "Archwilio llwybr o trên i ben taith cyfredol"
 
 #v1.6.13
 msgctxt "train_info_pin"
 msgid "Scroll map to train position"
-msgstr "Centrar el mapa en la posición del tren"
+msgstr "Sgrolio'r fap i lleoliad trên"
 
 #v1.6.13
 msgctxt "train_list_filter_alert_stale"
 msgid "Stale"
-msgstr "Caducado"
+msgstr "Hen"
 
 #v1.6.13
 msgctxt "train_orders_mode_ignore"
 msgid "< Do not change >"
-msgstr "< No cambiar >"
+msgstr "< Peidiwch â newid >"
 
 
 
@@ -344,7 +344,7 @@ msgstr "< No cambiar >"
 #v1.6.13
 msgctxt "editor_station"
 msgid "Create stations"
-msgstr "Crear nuevas estaciones"
+msgstr "Creu gorsafoedd"
 
 
 # ----------------------------------------------------------
@@ -353,107 +353,107 @@ msgstr "Crear nuevas estaciones"
 #v1.1.31
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 minutos"
+msgstr "10 munud"
 
 #v1.1.31
 msgctxt "15_minutes"
 msgid "15 minutes"
-msgstr "15 minutos"
+msgstr "15 munud"
 
 #v1.1.31
 msgctxt "20_minutes"
 msgid "20 minutes"
-msgstr "20 minutos"
+msgstr "20 munud"
 
 #v1.1.31
 msgctxt "30_minutes"
 msgid "30 minutes"
-msgstr "30 minutos"
+msgstr "30 munud"
 
 #v1.1.31
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 minutos"
+msgstr "5 munud"
 
 #v1.1.31
 msgctxt "60_minutes"
 msgid "60 minutes"
-msgstr "60 minutos"
+msgstr "60 munud"
 
 #v1.3.13
 msgctxt "acc_export_desc"
 msgid "Accounting data has been exported to {}"
-msgstr "Se ha exportado la contabilidad a {}"
+msgstr "Allforiwyd data cyfrifydda i {}"
 
 #v1.3.13
 msgctxt "acc_export_title"
 msgid "Exported accounting data"
-msgstr "Contabilidad exportada"
+msgstr "Allforiwyd data cyfrifydda"
 
 #v1.1.31
 msgctxt "accounting"
 msgid "Accounting"
-msgstr "Contabilidad"
+msgstr "Cyfrifau"
 
 #v1.1.31
 msgctxt "accounting_cash_total"
 msgid "$ Total"
-msgstr "$ Total"
+msgstr "$ Cyfanswm"
 
 #v1.1.31
 msgctxt "accounting_construction"
 msgid "Construction"
-msgstr "Construcción"
+msgstr "Adeiladwaith"
 
 #v1.4.15
 msgctxt "accounting_construction_buildings"
 msgid "Buildings"
-msgstr "Edificios"
+msgstr "Adeiladau"
 
 #v1.1.31
 msgctxt "accounting_construction_depots"
 msgid "Depots"
-msgstr "Depósitos"
+msgstr "Storfeydd"
 
 #v1.4.15
 msgctxt "accounting_construction_stations"
 msgid "Platforms"
-msgstr "Andén"
+msgstr "Platfformau"
 
 #v1.1.31
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Total construcción"
+msgstr "Cyfanswm Adeiladwaith"
 
 #v1.1.31
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
-msgstr "Vías"
+msgstr "Traciau"
 
 #v1.5.31
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "eventos"
+msgstr "digwyddiad"
 
 #v1.1.31
 msgctxt "accounting_financing"
 msgid "Financing"
-msgstr "Financiación"
+msgstr "Cyllid"
 
 #v1.1.31
 msgctxt "accounting_financing_credit"
 msgid "Credit"
-msgstr "Crédito"
+msgstr "Credyd"
 
 #v1.1.31
 msgctxt "accounting_financing_interest"
 msgid "Interest"
-msgstr "Interés"
+msgstr "Llog"
 
 #v1.1.37
 msgctxt "accounting_found_station_too_full"
 msgid "Compen.: full station"
-msgstr "Compen.: estación llena"
+msgstr "Digoll.: gorsaf yn llawn"
 
 #v1.1.72
 msgctxt "accounting_km_post"
@@ -463,667 +463,667 @@ msgstr "km"
 #v1.1.31
 msgctxt "accounting_pax"
 msgid "Passengers"
-msgstr "Pasajeros"
+msgstr "Teithwyr"
 
 #v1.1.31
 msgctxt "accounting_pax_boarded"
 msgid "Boarded train"
-msgstr "Entrado tren"
+msgstr "Byrddiwyd trên"
 
 #v1.1.31
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
-msgstr "Compensado"
+msgstr "Digolledwyd"
 
 #v1.5.31
 msgctxt "accounting_pax_found_train_too_full"
 msgid "Boarding failed: full train"
-msgstr "Tren lleno, imposible subir"
+msgstr "Methu byrddio: trên yn llawn"
 
 #v1.1.37
 msgctxt "accounting_pax_intervention"
 msgid "Compen.: intervention"
-msgstr "Compen.: intervención"
+msgstr "Digoll.: ymyriad"
 
 #v1.1.37
 msgctxt "accounting_pax_lost"
 msgid "Compen.: lost"
-msgstr "Compen.: perdido"
+msgstr "Digoll: ar goll"
 
 #v1.1.72
 msgctxt "accounting_pax_never_serviced"
 msgid "Never serviced"
-msgstr "Sin servicio"
+msgstr "Diwasanaethwyd"
 
 #v1.1.72
 msgctxt "accounting_pax_new"
 msgid "New pax"
-msgstr "Nuevos pax"
+msgstr "Teithwyr newydd"
 
 #v1.1.31
 msgctxt "accounting_pax_post"
 msgid "pax"
-msgstr "pax"
+msgstr "teithiwr"
 
 #v1.1.37
 msgctxt "accounting_pax_reached_depot"
 msgid "Refund: reached depot"
-msgstr "Reemb.: llegó a depósito"
+msgstr "Ad-dal.: cyrraedd yn storfa"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_destination"
 msgid "Reached destination"
-msgstr "Llegó a destinación"
+msgstr "Cyrraedd i ben taith"
 
 #v1.1.31
 msgctxt "accounting_pax_reached_transfer"
 msgid "Reached transfer"
-msgstr "Llegó a transferencia"
+msgstr "Cyrraedd i drosglwyddiad"
 
 #v1.1.37
 msgctxt "accounting_pax_refunded"
 msgid "Refunded (incl. compen.)"
-msgstr "Reembolsado (incl. compen.)"
+msgstr "Ad-dalwyd (yn cynnwys digoll.)
 
 #v1.1.37
 msgctxt "accounting_pax_refused_fare"
 msgid "Refund: too high fare"
-msgstr "Reemb.: tarifa demasiado alta"
+msgstr "Ad-dal.: pris rhy drud"
 
 #v1.1.31
 msgctxt "accounting_pax_spawned"
 msgid "Started trip"
-msgstr "Empezó viaje"
+msgstr "Cychwynwyd trip"
 
 #v1.1.37
 msgctxt "accounting_pax_waited_too_long"
 msgid "Compen.: waited too long"
-msgstr "Compen.: esperó demasiado"
+msgstr "Digoll.: Aroswyd rhy hir"
 
 #v1.1.31
 msgctxt "accounting_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Dydd"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime"
 msgid "Lifetime"
-msgstr "Desde creación"
+msgstr "Hyd oes"
 
 #v1.1.72
 msgctxt "accounting_period_lifetime_unknown"
 msgid "Since its creation"
-msgstr "Desde creación"
+msgstr "Ers creadigaeth"
 
 #v1.1.31
 msgctxt "accounting_period_month"
 msgid "Month"
-msgstr "Mes"
+msgstr "Mis"
 
 #v1.1.31
 msgctxt "accounting_period_quarter"
 msgid "Quarter"
-msgstr "Trimestre"
+msgstr "Chwarter"
 
 #v1.1.31
 msgctxt "accounting_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Wythnos"
 
 #v1.1.31
 msgctxt "accounting_period_year"
 msgid "Year"
-msgstr "Año"
+msgstr "Blwyddyn"
 
 #v1.1.31
 msgctxt "accounting_quarter1"
 msgid "Q1"
-msgstr "T1"
+msgstr "Ch1"
 
 #v1.1.31
 msgctxt "accounting_quarter2"
 msgid "Q2"
-msgstr "T2"
+msgstr "Ch2"
 
 #v1.1.31
 msgctxt "accounting_quarter3"
 msgid "Q3"
-msgstr "T3"
+msgstr "Ch3"
 
 #v1.1.31
 msgctxt "accounting_quarter4"
 msgid "Q4"
-msgstr "T4"
+msgstr "Ch4"
 
 #v1.1.72
 msgctxt "accounting_stats_now"
 msgid "Now"
-msgstr "Ahora"
+msgstr "Nawr"
 
 #v1.1.31
 msgctxt "accounting_ticketing"
 msgid "Ticketing"
-msgstr "Billetes"
+msgstr "Tocynnau"
 
 #v1.1.31
 msgctxt "accounting_ticketing_compensations"
 msgid "Compensations"
-msgstr "Compensaciones"
+msgstr "Digolledu"
 
 #v1.1.31
 msgctxt "accounting_ticketing_fares"
 msgid "Fares"
-msgstr "Tarifas"
+msgstr "Prisoedd"
 
 #v1.1.37
 msgctxt "accounting_ticketing_profit"
 msgid "Profit"
-msgstr "Beneficios"
+msgstr "Elw"
 
 #v1.1.31
 msgctxt "accounting_ticketing_refunds"
 msgid "Refunds"
-msgstr "Reembolsos"
+msgstr "Ad-daliadau"
 
 #v1.1.31
 msgctxt "accounting_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trenau"
 
 #v1.1.31
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
-msgstr "Intervenciones"
+msgstr "Ymyriadau"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
 msgid "Maintenance"
-msgstr "Mantenimiento"
+msgstr "Cynnal a chadw"
 
 #v1.1.31
 msgctxt "accounting_trains_purchases"
 msgid "New trains"
-msgstr "Nuevos trenes"
+msgstr "Trenau newydd"
 
 #v1.1.31
 msgctxt "accounting_trains_running"
 msgid "Running costs"
-msgstr "Costes de circulación"
+msgstr "Costau rhediad"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
-msgstr "Venta de trenes"
+msgstr "Gwerthiannau tren"
 
 #v1.1.72
 msgctxt "accounting_utc_warn"
 msgid "Accounting time: {} UTC0"
-msgstr "Tiempo conta.: {} UTC0"
+msgstr "Amser gyfrifydda: {} UTC0"
 
 #v1.1.31
 msgctxt "accounting_week_title"
 msgid "Week of {0} {1} {2}"
-msgstr "Semana de {0} {1} {2}"
+msgstr "Wythnos {0} {1} {2}"
 
 #v1.1.31
 msgctxt "acl_action_allow"
 msgid "Always allow"
-msgstr "Permitir siempre"
+msgstr "Cantiatáu bob tro"
 
 #v1.1.31
 msgctxt "acl_action_drop"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Anwybyddu"
 
 #v1.1.31
 msgctxt "acl_action_queue"
 msgid "Ask me"
-msgstr "Pregúntame"
+msgstr "Holi fi"
 
 #v1.1.31
 msgctxt "acl_allowed"
 msgid "Allowed"
-msgstr "Permitido"
+msgstr "Caniatawyd"
 
 #v1.1.31
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Denegado"
+msgstr "Gwadwyd"
 
 #v1.1.31
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
-msgstr "Si un amigo no invitado quiere entrar:"
+msgstr "Os ffrind diwahoddiad eisiau ymuno:"
 
 #v1.1.31
 msgctxt "acl_pending"
 msgid "Pending"
-msgstr "Pendiente"
+msgstr "Yn ystod"
 
 #v1.1.31
 msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
-msgstr "Si un desconocido quiere entrar:"
+msgstr "Os estron diwahoddiad eisiau ymuno:"
 
 #v1.3.13
 msgctxt "alert_after"
 msgid "After:"
-msgstr "Pasados:"
+msgstr "Ar ôl:"
 
 #v1.3.13
 msgctxt "alert_on"
 msgid "Alert on:"
-msgstr "Alerta en:"
+msgstr "Rhybudd ar:"
 
 #v1.4.15
 msgctxt "alerts_pause_game"
 msgid "Alerts pause game"
-msgstr "Alertas pausan el juego"
+msgstr "Mae rhybuddion yn orffwys y gêm"
 
 #v1.4.15
 msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
-msgstr "Incluso en máxima velocidad"
+msgstr "Hyd yn oed am cyflymder cyflymaf"
 
 #v1.2.22
 msgctxt "apply"
 msgid "Apply"
-msgstr "Aplicar"
+msgstr "Gweithredu"
 
 #v1.1.72
 msgctxt "asset_lines"
 msgid "Lines"
-msgstr "Líneas"
+msgstr "Leiniau"
 
 #v1.1.72
 msgctxt "asset_stations"
 msgid "Stations"
-msgstr "Estaciones"
+msgstr "Gorsafoedd"
 
 #v1.1.72
 msgctxt "asset_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trenau"
 
 #v1.5.41
 msgctxt "auto_clone"
 msgid "(Auto)"
-msgstr "(Auto)"
+msgstr "(Awto)"
 
 #v1.5.31
 msgctxt "auto_platform_scroll"
 msgid "Automatically track and scroll the list based on the time of day"
-msgstr "Sigue la hora del día automaticamente"
+msgstr "Awtodilyn a sgrolio'r rhestr seiliedig ar amser dydd"
 
 #v1.3.13
 msgctxt "autoexport_config_name"
 msgid "Autoexport accounting:"
-msgstr "Auto exportar conta.:"
+msgstr "Awtoallforio cyfrifydda:"
 
 #v1.3.13
 msgctxt "autoexport_config_value"
 msgid "Enabled"
-msgstr "Activado"
+msgstr "Galluodwyd"
 
 #v1.3.13
 msgctxt "autoexporting"
 msgid "Autoexporting..."
-msgstr "Auto exportando..."
+msgstr "Awtoallforio..."
 
 #v1.1.31
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Intervalo de autoguarda:"
+msgstr "Cyfwng awtogadw:"
 
 #v1.1.31
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Total autoguardas:"
+msgstr "Slotiau awtogadw:"
 
 #v1.1.31
 msgctxt "autosaving"
 msgid "Autosaving..."
-msgstr "Autoguarda..."
+msgstr "Autogadw..."
 
 #v1.1.31
 msgctxt "back"
 msgid "Back"
-msgstr "Volver"
+msgstr "Nôl"
 
 #v1.1.31
 msgctxt "bad_angle"
 msgid "bad angle"
-msgstr "mal ángulo"
+msgstr "ongl drwg"
 
 #v1.1.72
 msgctxt "balance"
 msgid "Balance"
-msgstr "Balance"
+msgstr "Gweddill"
 
 #v1.1.31
 msgctxt "banner_expain_ignore"
 msgid "Ignored join requests can be authorized in the server management window."
-msgstr "Las peticiones de entrar ignoradas se pueden autorizan en la ventana de administración del servidor."
+msgstr "Gallwch awdurdodi cais ymuno wedi'i anwybyddu mewn ffenestr rheolaeth gweinydd."
 
 #v1.1.31
 msgctxt "banner_join_friend"
 msgid "{} wants to join your game."
-msgstr "{} quiere entrar en tu partida."
+msgstr "Mae {} yn eisiau ymuno eich gêm."
 
 #v1.1.31
 msgctxt "banner_join_stranger"
 msgid "{} (not a friend) wants to join your game."
-msgstr "{} (desconocido) quiere entrar en tu partida."
+msgstr "Mae {} (nid yw ffrind) yn eisiau ymuno eich gêm."
 
 #v1.1.31
 msgctxt "banner_new_join"
 msgid "{} joined the game."
-msgstr "{} ha entrado en la partida."
+msgstr "Ymunodd {} y gêm."
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "Rydych chi eisiau ymuno gêm yn lletya gan {}? Bydd eich gêm cyfredol yn awtogadw a gadewch y gweinydd cyfredol."
 
 #v1.1.31
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "Mae {0} yn holi chwi ymuno gêm yn lletya gan {1}. Rydych chi eisiau ymuno? Bydd eich gêm cyfredol yn awtogadw a gadewch y gweinydd cyfredol."
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará."
+msgstr "Rydych chi eisiau ymuno gêm yn lletya gan {}? Bydd eich gêm cyfredol yn awtogadw."
 
 #v1.1.31
 msgctxt "banner_prompt_game_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará."
+msgstr "Mae {0} yn holi chwi ymuno gêm yn lletya gan {1}. Rydych chi eisiau ymuno? Bydd eich gêm cyfredol yn awtogadw."
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
 msgid "Do you want to join a game hosted by {}?"
-msgstr "Quieres entrar a una partida hospedada por {}?"
+msgstr "Rydych chi eisiau ymuno gêm yn lletya gan {}?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join?"
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar?"
+msgstr "Mae {0} yn holi chwi ymuno gêm yn lletya gan {1}. Rydych chi eisiau ymuno?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "Do you want to join a game hosted by {}? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "Rydych chi eisiau ymuno gêm yn lletya gan {}? RHYBUDD: Rydych chi'n lletya gêm yn cyfredol. Bydd holl eich chwaraewyr yn datgysylltu. Bydd eich gêm cyfredol yn awtogadw."
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? ATENCIÓN: estás hospedando una partida en estos momentos. Todos los jugadores conectados a tu servidor serán desconectados. Tu partida actual se autoguardará."
+msgstr "Mae {0} yn holi chwi ymuno gêm yn lletya gan {1}. Rydych chi eisiau ymuno? RHYBUDD: Rydych chi'n lletya gêm yn cyfredol. Bydd holl eich chwaraewyr yn datgysylltu. Bydd eich gêm cyfredol yn awtogadw."
 
 #v1.4.15
 msgctxt "bill_show_full"
 msgid "Show full billing details"
-msgstr "Mostrar factura completa"
+msgstr "Dangos manylion bil llawn"
 
 #v1.1.31
 msgctxt "bill_tab_client"
 msgid "By me"
-msgstr "Míos"
+msgstr "Gan fi"
 
 #v1.1.31
 msgctxt "bill_tab_global"
 msgid "Global"
-msgstr "Global"
+msgstr "Eang"
 
 #v1.1.31
 msgctxt "bill_tab_selection"
 msgid "Selection"
-msgstr "Selección"
+msgstr "Detholiad"
 
 #v1.1.31
 msgctxt "build"
 msgid "Build"
-msgstr "Construir"
+msgstr "Adeiladu"
 
 #v1.1.31
 msgctxt "build_all_bp"
 msgid "Build all blueprints"
-msgstr "Construir todos los planos"
+msgstr "Adeiladu holl glasbrintiau"
 
 #v1.1.31
 msgctxt "build_my_bp"
 msgid "Build my blueprints"
-msgstr "Construir mis planos"
+msgstr "Adeiladu fy nglasbrintiau"
 
 #v1.1.31
 msgctxt "build_selected_bp"
 msgid "Build selected blueprints"
-msgstr "Construir planos seleccionados"
+msgstr "Adeiladu glasbrintiau dewisol"
 
 #v1.4.15
 msgctxt "building_all_kinds_info"
 msgid "Show all building kinds and pick your favorites"
-msgstr "Mostrar todos los edificios y elegir favoritos"
+msgstr "Dangos holl math adeiliad a dewis eich ffefrynnau"
 
 #v1.4.22
 msgctxt "building_bottom_side"
 msgid "Bottom side:"
-msgstr "Lado inferior:"
+msgstr "Ochr gwaelod:"
 
 #v1.4.15
 msgctxt "building_constraint_curved"
 msgid "Trace track curve"
-msgstr "Trazar la curva de la vía"
+msgstr "Dargopïo cromlin trac"
 
 #v1.4.15
 msgctxt "building_constraint_draw_layer"
 msgid "Draw depth:"
-msgstr "Altura:"
+msgstr "Dyfnder llunio:"
 
 #v1.4.15
 msgctxt "building_constraint_pick"
 msgid "Pick track"
-msgstr "Elegir vía"
+msgstr "Dewis trac"
 
 #v1.4.15
 msgctxt "building_constraint_type"
 msgid "Locked to track:"
-msgstr "Pegado a vía:"
+msgstr "Cloi i drac:"
 
 #v1.4.15
 msgctxt "building_constraints_editor"
 msgid "Building properties"
-msgstr "Propiedades de edificio"
+msgstr "Dewisiadau adeiladu"
 
 #v1.4.22
 msgctxt "building_decal"
 msgid "Decal:"
-msgstr "Decoración:"
+msgstr "Addurn:"
 
 #v1.4.22
 msgctxt "building_decal_color"
 msgid "Decal color:"
-msgstr "Color decor.:"
+msgstr "Lliw addurn:"
 
 #v1.4.22
 msgctxt "building_decal_none"
 msgid "<None>"
-msgstr "<Ninguno>"
+msgstr "<Dim>"
 
 #v1.4.15
 msgctxt "building_draw_layer_0"
 msgid "Under tracks"
-msgstr "Bajo de vía"
+msgstr "Dan traciau"
 
 #v1.4.15
 msgctxt "building_draw_layer_1"
 msgid "Over tracks"
-msgstr "Sobre la vía"
+msgstr "Dros traciau"
 
 #v1.4.15
 msgctxt "building_draw_layer_3"
 msgid "Roof"
-msgstr "Tejado"
+msgstr "To"
 
 #v1.4.22
 msgctxt "building_end_t"
 msgid "End t (0 to 1):"
-msgstr "T final (0 a 1):"
+msgstr "T diweddiad (0 i 1):"
 
 #v1.4.22
 msgctxt "building_height"
 msgid "Height:"
-msgstr "Alto:"
+msgstr "Uchder:"
 
 #v1.4.15
 msgctxt "building_info_price_f"
 msgid "${} per m\xC2\xB2"
-msgstr "${} por m²"
+msgstr "${} ar m²"
 
 #v1.4.15
 msgctxt "building_label"
 msgid "[*] Label"
-msgstr "[*] Etiqueta"
+msgstr "[*] Label"
 
 #v1.4.15
 msgctxt "building_label_bg_fill"
 msgid "Fill background"
-msgstr "Color de fondo"
+msgstr "Llenwad cefndir"
 
 #v1.4.15
 msgctxt "building_label_font"
 msgid "Font size:"
-msgstr "Tamaño fuente:"
+msgstr "Maint ffont:"
 
 #v1.4.15
 msgctxt "building_label_font_0"
 msgid "Small"
-msgstr "Pequeña"
+msgstr "Bach"
 
 #v1.4.15
 msgctxt "building_label_font_1"
 msgid "Medium"
-msgstr "Mediana"
+msgstr "Canolig"
 
 #v1.4.15
 msgctxt "building_label_font_2"
 msgid "Large"
-msgstr "Grande"
+msgstr "Mawr"
 
 #v1.4.15
 msgctxt "building_label_text"
 msgid "Text:"
-msgstr "Texto:"
+msgstr "Testun:"
 
 #v1.4.15
 msgctxt "building_max_zoom"
 msgid "Max zoom:"
-msgstr "Zoom máximo:"
+msgstr "Chwyddo mwyaf:"
 
 #v1.4.15
 msgctxt "building_platform_footprint_extension"
 msgid "[*] Platform footprint extension"
-msgstr "[*] Extensión de andén"
+msgstr "[*] Estyniad troed y blatfform"
 
 #v1.4.22
 msgctxt "building_start_t"
 msgid "Start t (0 to 1):"
-msgstr "T inicial (0 a 1):"
+msgstr "T cychwyniad (0 i 1):"
 
 #v1.4.22
 msgctxt "building_top_side"
 msgid "Top side:"
-msgstr "Lado superior:"
+msgstr "Ochr pen:"
 
 #v1.4.22
 msgctxt "building_width"
 msgid "Width:"
-msgstr "Ancho:"
+msgstr "Lled:"
 
 #v1.4.15
 msgctxt "buildings_total"
 msgid "Buildings total"
-msgstr "Total edificios"
+msgstr "Cyfanswm adeiladau"
 
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "Andén recto:"
+msgstr "Cadw platfform yn syth:"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
 msgid "Disable"
-msgstr "Desactivar"
+msgstr "Analluogi"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_enable"
 msgid "Enable"
-msgstr "Activar"
+msgstr "Galluogi"
 
 #v1.5.31
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "Etiqueta estación:"
+msgstr "Label gorsaf:"
 
 #v1.1.31
 msgctxt "cancel"
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Canslo"
 
 #v1.1.31
 msgctxt "cancel_quit"
 msgid "Quit"
-msgstr "Salir"
+msgstr "Gadael"
 
 #v1.3.13
 msgctxt "cat_track_gauge"
 msgid "Track gauge"
-msgstr "Ancho de vía"
+msgstr "Lled rheilffordd"
 
 #v1.3.13
 msgctxt "cat_train_misc"
 msgid "Train miscellany"
-msgstr "Misc. tren"
+msgstr "Amrywiaeth trên"
 
 #v1.3.13
 msgctxt "cat_train_power"
 msgid "Train power"
-msgstr "Potencia (tren)"
+msgstr "Pŵr (trên)"
 
 #v1.3.13
 msgctxt "cat_train_role"
 msgid "Train role"
-msgstr "Rol (tren)"
+msgstr "Rôl (trên)"
 
 #v1.3.13
 msgctxt "cat_train_unit"
 msgid "Train unit"
-msgstr "Unidad (tren)"
+msgstr "Uned (trên)"
 
 #v1.3.13
 msgctxt "charts_title"
 msgid "Charts"
-msgstr "Gráficos"
+msgstr "Siartiau"
 
 #v1.1.31
 msgctxt "client_blueprint_bill"
 msgid "My blueprint bill"
-msgstr "Factura de mis planos"
+msgstr "Fy mil glasbrint"
 
 #v1.4.15
 msgctxt "client_blueprint_bill_short"
 msgid "My blueprints"
-msgstr "Mis planos"
+msgstr "Fy nglasbrintiau"
 
 #v1.1.31
 msgctxt "client_conn_info"
 msgid "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
-msgstr "Host: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
+msgstr "Lletywr: {0} | {1}ms | {2:.2f}%▲ {3:.2f}%▼ | {4}▲ {5}▼ B/s"
 
 #v1.1.37
 msgctxt "client_stream_stats"
 msgid "Client stream stats"
-msgstr "Estadísticas de streaming de cliente"
+msgstr "Ystadegau ffrydio cleient"
 
 #v1.4.15
 msgctxt "clip_auto_name"
@@ -1133,222 +1133,222 @@ msgstr "Clip #{}"
 #v1.3.13
 msgctxt "color"
 msgid "Color:"
-msgstr "Color:"
+msgstr "Lliw:"
 
 #v1.1.31
 msgctxt "company_tab_info"
 msgid "Info"
-msgstr "Info"
+msgstr "Gwybodaeth"
 
 #v1.5.31
 msgctxt "company_tab_loans"
 msgid "Loans"
-msgstr "Crédito"
+msgstr "Benthyciadau"
 
 #v1.5.31
 msgctxt "company_tab_options"
 msgid "Options"
-msgstr "Opciones"
+msgstr "Dewisiadau"
 
 #v1.1.31
 msgctxt "confirm_bp"
 msgid "Do you want to build the current blueprint?"
-msgstr "Quieres construir los planos actuales?"
+msgstr "Rydych chi eisiau adeiladu'r glasbrint cyfredol?"
 
 #v1.1.31
 msgctxt "confirm_bp_price"
 msgid "Do you want to build the current blueprint for ${}?"
-msgstr "Quieres construir los planos actuales por un precio de ${}?"
+msgstr "Rydych chi eisiau adeiladu'r glasbrint cyfredol am ${}?"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown"
 msgid "Clip contains unknown objects or mods"
-msgstr "El clip contiene objetos o mods desconocidos"
+msgstr "Mae'r clip yn cynnwys gwrthrychau neu addasiadau anhysbys"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_1"
 msgid "One or more objects in the clip references an unknown object kind:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un tipo de objeto desconocido:\n"
+msgstr "Un neu mwy o gwrthrychau mewn clip yn cyfeirio math gwrthrych anhysbys:\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_2"
 msgid "One or more objects in the clip references an unknown mod:\n"
-msgstr "Uno o más objetos en el clip hace referencia a un mod:\n"
+msgstr "Un neu mwy o gwrthrychau mewn clip yn cyfeirio addasiad anhysbys:\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_3"
 msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
-msgstr "Copia usando objetos por defecto para reemplazar los objetos desconocidos con objetos base del juego, evitando tener que añadir o activar nuevos tipos de objetos o mods.\n"
+msgstr "Copïo gyda gosod i newid gwrthrychau anhysybys gyda gwrthrychau gosod, yn osgoi mewnfudo addasiadau a math gwrthrych newydd tu mewn eich gêm.\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_4"
 msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "Copia usando nuevos mods para añadir los tipos de objetos desconocidos a tu juego. Necesitarás suscribirte a sus mods en el Workshop si todavía no estás suscrito."
+msgstr "Copïo gydag addasiadau newydd i fewnfudo math gwrthrychau newydd, ac i alluogi eu haddasiadau mewn eich gêm. Mae angen chi tanysgrifio i'r addasiadau mewn Steam Workshop."
 
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Dileu casgliad"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_body"
 msgid "Delete the selected collection?"
-msgstr "Borrar la colección seleccionada?"
+msgstr "Dileu casgliad dewisol?"
 
 #v1.4.22
 msgctxt "confirm_collection_delete_ok"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Dileu casglaid"
 
 #v1.1.31
 msgctxt "confirm_construction"
 msgid "Confirm construction"
-msgstr "Confirmar construcción"
+msgstr "Cadarnhau'r adeiladu"
 
 #v1.1.31
 msgctxt "confirm_delete"
 msgid "Confirm delete"
-msgstr "Confirmar borrado"
+msgstr "Cadarnhau'r dileu"
 
 #v1.4.15
 msgctxt "confirm_delete_desc"
 msgid "One or more selected objects are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Uno o más objetos ya han sido construidos. Borrar estos objetos no te va a devolver su coste de construcción. Esta operación no se puede cancelar. Estás seguro?"
+msgstr "Un neu mwy o wrthrychau dewisol yn adeiladu yn barod. Ni fydd eu dileu yn ad-dalu'ch arian. Ni ellir dadwneud y gweithrediad. Rydych chi'n siwr?"
 
 #v1.1.58
 msgctxt "confirm_delete_line"
 msgid "Confirm line deletion"
-msgstr "Borrar la línea?"
+msgstr "Dileu'r lein?"
 
 #v1.1.58
 msgctxt "confirm_delete_line_desc"
 msgid "Do you want to delete the line named {}?"
-msgstr "Confirmas que quieres borrar la línea de nombre {}?"
+msgstr "Rydych chi eisiau dileu'r lein sy'n enwi {}?"
 
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Confirmar intervención de línea"
+msgstr "Cadarnhau ymyriad lein"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
 msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Quieres hacer una intervención a todos los trenes recorriendo la línea {0} actualmente por un precio de ${1}?"
+msgstr "Rydych chi eisiau ymyrryd gydag holl trenau'n rhedeg lein sy'n enwi {0} am ${1}?"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash"
 msgid "Confirm switching to unlimited money"
-msgstr "Confirmar el paso a dinero ilimitado"
+msgstr "Cadarnhau switsio i arian diderfyn"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
-msgstr "Pasar a dinero ilimitado es definitivo. Estás seguro?"
+msgstr "Ni ellir dadwneud switsio i arain diderfyn. Rydych chi'n siwr?"
 
 #v1.1.31
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
-msgstr "colisión con agua o calles"
+msgstr "gwrthdrawiad gyda dŵr neu ffordd"
 
 #v1.1.31
 msgctxt "conflicts"
 msgid "Conflicts"
-msgstr "Conflictos"
+msgstr "Gwrthdrawiadau"
 
 #v1.1.37
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed, or their validation is still pending. Move, edit or delete all tracks marked in red."
-msgstr "Una o más vías tiene conflictos y no se pueden construir, o no está validada. Mueve, edita o borra todas las vías de color rojo."
+msgstr "Mae un neu mwy o traciau wedi gwrthdrawiad a ni ellir adeiladu, neu eu dilysiad yn ystod. Symud, golygu neu dileu pob trac wedi'i farcio gyda choch."
 
 #v1.1.31
 msgctxt "connecting_elip"
 msgid "Connecting..."
-msgstr "Conectando..."
+msgstr "Cysylltu..."
 
 #v1.1.31
 msgctxt "connection_denied"
 msgid "Connection denied"
-msgstr "Conexión denegada"
+msgstr "Gwadwyd cysylltiad"
 
 #v1.2.22
 msgctxt "constraint_direction"
 msgid "Direction:"
-msgstr "Dirección:"
+msgstr "Cyfeiriad:"
 
 #v1.4.22
 msgctxt "constraint_disp"
 msgid "Displace:"
-msgstr "Desplazar:"
+msgstr "Dadleoli:"
 
 #v1.2.22
 msgctxt "constraint_flip"
 msgid "Flip"
-msgstr "Rotar"
+msgstr "Gwrth-droi"
 
 #v1.5.31
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Velocidad max. manual:"
+msgstr "Cyflymder uchafswm dewisol:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Los valores por encima del límite físico de la vía serán ignorados. El valor 0 desactiva esta funcionalidad."
+msgstr "Bydd gwerthoedd dros cyflymder uchafswm y trac yn anwybyddu. Gosod i 0 i analluogi cyflymder uchafswm dewisol."
 
 #v1.4.22
 msgctxt "constraint_offset"
 msgid "Offset:"
-msgstr "Desplazar:"
+msgstr "Atred:"
 
 #v1.5.31
 msgctxt "constraint_offset2"
 msgid "Parallel offset:"
-msgstr "Desplazar paralelo:"
+msgstr "Atred paralel:"
 
 #v1.2.22
 msgctxt "constraint_pick"
 msgid "Pick parent"
-msgstr "Elegir padre"
+msgstr "Dewis rhiant"
 
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr "Quitar restricción"
+msgstr "Diddymu cyfyngydd"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "Restricción paralela:"
+msgstr "Cynfyngydd paralel:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
 msgid "Remove"
-msgstr "Eliminar"
+msgstr "Diddymu"
 
 #v1.4.15
 msgctxt "constraint_straight"
 msgid "Keep straight"
-msgstr "Mantener recto"
+msgstr "Cadw yn syth"
 
 #v1.2.22
 msgctxt "constraint_t"
 msgid "Segment t (0 to 1):"
-msgstr "T de segmento (0 to 1):"
+msgstr "T segmentu (0 i 1):"
 
 #v1.2.22
 msgctxt "constraint_type"
 msgid "Lock control point:"
-msgstr "Bloqueo de punto:"
+msgstr "Cloi pwynt rheolaeth:"
 
 #v1.2.22
 msgctxt "constraint_type_control_point"
 msgid "To a control point"
-msgstr "A punto de control"
+msgstr "I bwynt rheolaeth"
 
 #v1.2.22
 msgctxt "constraint_type_t_tangent"
 msgid "To a track point"
-msgstr "A un punto de vía"
+msgstr "I bwynt trac"
 
 #v1.5.41
 msgctxt "constraint_xform_grid_snap"
