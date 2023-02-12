@@ -4278,17 +4278,22 @@ msgstr "Distrito"
 #v1.1.31
 msgctxt "overpass_n_0"
 msgid "0 overpasses"
-msgstr "0 cruces"
+msgstr "0 trosffordd"
 
 #v1.1.31
 msgctxt "overpass_n_1"
 msgid "1 overpass"
-msgstr "1 cruce"
+msgstr "1 trosffordd"
+
+#v1.1.31
+msgctxt "overpass_n_2"
+msgid "2 overpasses"
+msgstr "2 drosffordd"
 
 #v1.1.31
 msgctxt "overpass_n_many"
 msgid "%d overpasses"
-msgstr "%d cruces"
+msgstr "%d trosffordd"
 
 #v1.1.31
 msgctxt "overwrite"
