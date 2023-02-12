@@ -1353,102 +1353,107 @@ msgstr "I bwynt trac"
 #v1.5.41
 msgctxt "constraint_xform_grid_snap"
 msgid "Snap:"
-msgstr "Reticular:"
+msgstr "Clecian:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate"
 msgid "Rotate:"
-msgstr "Rotar:"
+msgstr "Cylchdroi:"
 
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
 msgid "Rotate track end:"
-msgstr "Rotar fin de vía:"
+msgstr "Clychdroi diwedd trac:"
 
 #v1.5.41
 msgctxt "constraint_xform_translate"
 msgid "Translate:"
-msgstr "Mover:"
+msgstr "Symud:"
 
 #v1.5.41
 msgctxt "constraints_bulk_editor"
 msgid "Bulk editor"
-msgstr "Editor en grupo"
+msgstr "Golygydd swmp"
 
 #v1.4.15
 msgctxt "constraints_editor"
 msgid "Track properties"
-msgstr "Propiedades de vía"
+msgstr "Dewisiadau trac"
 
 #v1.4.15
 msgctxt "construct_no_bps"
 msgid "There are no pending blueprints to build"
-msgstr "No hay planos pendientes de construcción"
+msgstr "Nid oes glasbrintiau i adeiladu"
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
-msgstr "No hay dinero suficiente para la construcción"
+msgstr "Dim digon o arian i adeiladu"
 
 #v1.1.31
 msgctxt "construction_conflicts_error"
 msgid "Conflicts block construction"
-msgstr "Hay conflictos bloqueando la construcción"
+msgstr "Mae gwrthdrawiadau'n rwystro adeiladwaith"
 
 #v1.1.37
 msgctxt "continue_game"
 msgid "Continue game"
-msgstr "Continuar partida"
+msgstr "Parhau gêm"
 
 #v1.4.15
 msgctxt "copied_from_coll"
 msgid "Copied! Paste with Ctrl-V"
-msgstr "Copiado! Pega con Ctrl-V"
+msgstr "Copiwyd! Gludwch gyda Ctrl-V"
 
 #v1.1.31
 msgctxt "copy"
 msgid "Copy"
-msgstr "Copiar"
+msgstr "Copïo"
 
 #v1.1.31
 msgctxt "credits"
 msgid "Credits"
-msgstr "Créditos"
+msgstr "Canmoliaethau"
 
 #v1.1.31
 msgctxt "credits_acknowledgments"
 msgid "Acknowledgments"
-msgstr "Licencias"
+msgstr "Cydnabyddiaethau"
 
 #v1.1.31
 msgctxt "credits_art"
 msgid "Art"
-msgstr "Ilustración"
+msgstr "Celfyddyd"
 
 #v1.1.31
 msgctxt "credits_programming"
 msgid "Programming and design"
-msgstr "Programación y diseño"
+msgstr "Rhaglennu a chynllunio"
 
 #v1.1.31
 msgctxt "credits_thanks"
 msgid "Thanks"
-msgstr "Agradecimientos"
+msgstr "Diolchiadau"
 
 #v1.1.31
 msgctxt "crossings_n_0"
 msgid "0 crossings"
-msgstr "0 cruces"
+msgstr "0 croesfan"
 
 #v1.1.31
 msgctxt "crossings_n_1"
 msgid "1 crossing"
-msgstr "1 cruce"
+msgstr "1 croesfan"
+
+#v1.1.31
+msgctxt "crossings_n_2"
+msgid "2 crossings"
+msgstr "2 groesfan"
 
 #v1.1.31
 msgctxt "crossings_n_many"
 msgid "%d crossings"
-msgstr "%d cruces"
+msgstr "%d croesfan"
 
 #v1.1.31
 msgctxt "custom_admin_level_poi"
