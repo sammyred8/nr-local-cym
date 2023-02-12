@@ -1446,11 +1446,6 @@ msgid "1 crossing"
 msgstr "1 croesfan"
 
 #v1.1.31
-msgctxt "crossings_n_2"
-msgid "2 crossings"
-msgstr "2 groesfan"
-
-#v1.1.31
 msgctxt "crossings_n_many"
 msgid "%d crossings"
 msgstr "%d croesfan"
@@ -1458,247 +1453,247 @@ msgstr "%d croesfan"
 #v1.1.31
 msgctxt "custom_admin_level_poi"
 msgid "POI"
-msgstr "PDI"
+msgstr "Lleoedd diddorol"
 
 #v1.1.31
 msgctxt "custom_admin_level_transport"
 msgid "Transportation"
-msgstr "Transportes"
+msgstr "Trawsgludiad"
 
 #v1.1.31
 msgctxt "default_han_font"
 msgid "Default Han font:"
-msgstr "Fuente Han predet.:"
+msgstr "Ffont rhagosodedig Dwyrain Asia:"
 
 #v1.1.31
 msgctxt "default_han_font_chi"
 msgid "Simplified Chinese"
-msgstr "Chino simplificado"
+msgstr "Tsieineeg Syml"
 
 #v1.1.31
 msgctxt "default_han_font_jpn"
 msgid "Japanese"
-msgstr "Japonés"
+msgstr "Japaneeg"
 
 #v1.1.31
 msgctxt "default_han_font_kor"
 msgid "Korean"
-msgstr "Koreano"
+msgstr "Coreeg"
 
 #v1.1.31
 msgctxt "default_han_font_zho"
 msgid "Traditional Chinese"
-msgstr "Chino tradicional"
+msgstr "Tsieineeg Traddodiadol"
 
 #v1.1.31
 msgctxt "default_train_name"
 msgid "Train {}"
-msgstr "Tren {}"
+msgstr "Trên {}"
 
 #v1.4.15
 msgctxt "default_user_label"
 msgid "Edit me"
-msgstr "Edítame"
+msgstr "Golygu fi"
 
 #v1.4.15
 msgctxt "delete_clip"
 msgid "Delete clip"
-msgstr "Borrar clip"
+msgstr "Dileu clip"
 
 #v1.4.22
 msgctxt "delete_collection"
 msgid "Delete collection"
-msgstr "Borrar colección"
+msgstr "Dileu casgliad"
 
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr "Mover la partida guardada a la papelera"
+msgstr "Symud gêm dewiswyd i'r bin"
 
 #v1.1.58
 msgctxt "delete_line"
 msgid "Delete line"
-msgstr "Borrar línea"
+msgstr "Dileu lein"
 
 #v1.1.72
 msgctxt "delete_line_sell_trains"
 msgid "Delete and sell trains"
-msgstr "Borrar y vender trenes"
+msgstr "Dileu a gwerthu trenau"
 
 #v1.4.15
 msgctxt "delete_tracks"
 msgid "Delete objects"
-msgstr "Borrar objetos"
+msgstr "Dileu gwrthrychau"
 
 #v1.1.31
 msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
-msgstr "{:.1f} pax/s"
+msgstr "{:.1f} teithwyr/s"
 
 #v1.2.29
 msgctxt "depth_layer_n"
 msgid "Depth {}"
-msgstr "Profundidad {}"
+msgstr "Dyfnder {}"
 
 #v1.1.31
 msgctxt "description"
 msgid "Description:"
-msgstr "Descripción:"
+msgstr "Disgrifiad:"
 
 #v1.1.31
 msgctxt "disabled"
 msgid "Disabled"
-msgstr "Desactivado"
+msgstr "Analluogwyd"
 
 #v1.1.31
 msgctxt "display_mode"
 msgid "Mode:"
-msgstr "Modo:"
+msgstr "Modd:"
 
 #v1.1.31
 msgctxt "display_mode_exclusive_fullscreen"
 msgid "Exclusive fullscreen"
-msgstr "Pantalla completa excl."
+msgstr "Sgrin lawn anghynhwysol"
 
 #v1.1.31
 msgctxt "display_mode_windowed"
 msgid "Windowed"
-msgstr "Ventana"
+msgstr "Mewn ffenstr"
 
 #v1.1.31
 msgctxt "display_mode_windowed_fullscreen"
 msgid "Windowed fullscreen"
-msgstr "Ventana pantalla completa"
+msgstr "Ffenstr sgrin llawn"
 
 #v1.1.31
 msgctxt "display_screen"
 msgid "Display:"
-msgstr "Monitor:"
+msgstr "Dangosydd:"
 
 #v1.1.31
 msgctxt "display_screen_leave_alone"
 msgid "Do not set"
-msgstr "No cambiar"
+msgstr "Peidiwch â gosod"
 
 #v1.1.31
 msgctxt "done"
 msgid "Done"
-msgstr "Hecho"
+msgstr "Wedi gorffen"
 
 #v1.4.15
 msgctxt "edit_clip_name"
 msgid "Edit clip name"
-msgstr "Editar nombre del clip"
+msgstr "Golygu enw clip"
 
 #v1.4.22
 msgctxt "edit_collection_name"
 msgid "Edit collection name"
-msgstr "Editar nombre de colección"
+msgstr "Golygu enw casgliad"
 
 #v1.2.22
 msgctxt "editor_add"
 msgid "Append to tracks or create new ones"
-msgstr "Añadir a vías o crear nuevas vías"
+msgstr "Atodi i traciau neu creu traciau newydd"
 
 #v1.2.22
 msgctxt "editor_branch"
 msgid "Create new track branches"
-msgstr "Crear nuevas ramas de vías"
+msgstr "Creu canghennau trac newydd"
 
 #v1.4.15
 msgctxt "editor_building"
 msgid "Create new buildings"
-msgstr "Crear nuevos edificios"
+msgstr "Creu adeiladau newydd"
 
 #v1.2.22
 msgctxt "editor_edit_signal"
 msgid "Move, delete and edit signals"
-msgstr "Mover, borrar y editar señales"
+msgstr "Symud, dileu a golygu signalau"
 
 #v1.2.22
 msgctxt "editor_move"
 msgid "Move, delete and edit tracks"
-msgstr "Mover, borrar y editar vías"
+msgstr "Symud, dileu a golygu traciau"
 
 #v1.2.22
 msgctxt "editor_new_signal"
 msgid "Create new signals"
-msgstr "Crear nuevas señales"
+msgstr "Creu signalau newydd"
 
 #v1.4.15
 msgctxt "editor_pick_building_parent_left"
 msgid "Click a control point to make it the building parent"
-msgstr "Haz click en un nodo de control de vía para mantener el edificio pegado a la misma"
+msgstr "Cliciwch pwynt rheolaeth i'w wneud yn rhiant adeilad"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
 msgid "Esc to cancel picking"
-msgstr "Esc para cancelar elección"
+msgstr "Esc i ganslo dewis"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "Click en punto de control para hacerlo el padre de la restricción"
+msgstr "Cliciwch pwynt rheolaeth i'w wneud yn rhiant cyfyngydd"
 
 #v1.5.41
 msgctxt "editor_select_add_platform"
 msgid "Click platform names in stations to add stops to the line"
-msgstr "Click en los nombres de andenes para añadir paradas a la línea"
+msgstr "Cliciwch enwau platfform mewn gorsafoedd i ychwanegu arosiadau i'r lein"
 
 #v1.1.31
 msgctxt "editor_select_add_waypoint"
 msgid "Click track segments to add waypoints to the line"
-msgstr "Click en los segmentos de vías para añadir puntos de ruta"
+msgstr "Cliciwch segmentau trac i ychwanegu cyfeirbwyntiau i'r lein"
 
 #v1.5.31
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Selecciona una señal para asignarla como el discriminador de andén"
+msgstr "Cliciwch rheolaethau signal i osod signal y signal llwybr eilaidd i'r arhosiad"
 
 #v1.5.41
 msgctxt "editor_select_alt_stop"
 msgid "Click platform names in stations to add a secondary platform to the stop"
-msgstr "Selecciona andenes para asignarlos como andenes secundarios"
+msgstr "Cliciwch enwau platfform mewn gorsafoedd i ychwanegu platfform eilaidd i'r arhosiad"
 
 #v1.5.41
 msgctxt "editor_select_change_platform"
 msgid "Click platform names in stations to change the stop main platform"
-msgstr "Selecciona un andén para asignarlo como andén principal"
+msgstr "Cliciwch enwau platfform mewn gorsafoedd i newid prif platfform yr arhosiad"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "Esc i fynd i'r modd golygu"
 
 #v1.1.31
 msgctxt "editor_tip_add_left1"
 msgid "Left click on the existing end of track control points to continue an existing track"
-msgstr "Click izquierdo en los controles de los extremos de las vías para continuar una vía existente"
+msgstr "Cliciwch chwith a'r pen pwyntiau rheolaeth trac presennol i barhau trac presennol"
 
 #v1.1.31
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
-msgstr "Click izquierdo en cualquier otra parte para empezar una nueva vía"
+msgstr "Cliciwch chwith unrhyw le arall i greu trac newydd"
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "Esc i fynd i'r modd golygu"
 
 #v1.1.31
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
-msgstr "Click izquierdo para crear una rama"
+msgstr "Cliciwch chwith i greu'r cangen"
 
 #v1.2.22
 msgctxt "editor_tip_branch_mouse"
 msgid "Hover the mouse cursor near an existing track to start a new branch"
-msgstr "Acerca el cursor a una vía existente para empezar una nueva rama"
+msgstr "Hofrannwch y cyrchwr yn agos i drac presennol i gychwyn cangen newydd"
 
 #v1.2.22
 msgctxt "editor_tip_cont_alt"
 msgid "Alt to toggle the parallel track side"
-msgstr "Alt para alternar el lado de la vía paralela"
+msgstr "Alt i doglo'r ochr trac paralel"
 
 #v1.2.29
 msgctxt "editor_tip_cont_ctrl"
@@ -1808,132 +1803,132 @@ msgstr "Arrastra el nodo de control para escalar y rotar el edificio"
 #v1.4.15
 msgctxt "editor_tip_move_building_sizer_ctrl"
 msgid "Hold Ctrl to line up the control point on its current axis."
-msgstr "Pulsta Ctrl para alinear el punto de control sobre su eje actual."
+msgstr "Gafaelwch Ctrl i alinio'r pwynt rheolaeth gyda'i echelin presennol"
 
 #v1.1.31
 msgctxt "editor_tip_move_esc"
 msgid "Esc to cancel movement"
-msgstr "Esc para cancelar el movimiento"
+msgstr "Esc i ganslo symudiad"
 
 #v1.4.15
 msgctxt "editor_tip_move_left"
 msgid "Release left button to stop moving the selection"
-msgstr "Suelta el botón izquierdo para terminar de mover el punto de control"
+msgstr "Rhyddhewch botwm chwith i stopio symud y dewisiad"
 
 #v1.4.15
 msgctxt "editor_tip_new_building_fin_left"
 msgid "Left click to finish creating a new building"
-msgstr "Click izquierdo para finalizar la creación del edificio"
+msgstr "Cliciwch chwith i orffen creadigaeth adeilad newydd"
 
 #v1.4.15
 msgctxt "editor_tip_new_building_left"
 msgid "Left click to create a new building"
-msgstr "Click izquierdo para crear un nuevo edificio"
+msgstr "Cliciwch chwith i greu adeilad newydd"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_esc"
 msgid "Esc to go to signal edit mode"
-msgstr "Esc para volver a modo de edición de señales"
+msgstr "Esc i fynd i'r modd golygu signal"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_left"
 msgid "Left click to create signal"
-msgstr "Click izquierdo para crear señal"
+msgstr "Cliciwch chwith i greu signal"
 
 #v1.2.22
 msgctxt "editor_tip_new_signal_shift"
 msgid "Shift to change signal facing direction"
-msgstr "Shift para cambiar la dirección de la señal"
+msgstr "Sifft i newid cyfeiriad wynebu'r signal"
 
 #v1.4.15
 msgctxt "editor_tip_paste"
 msgid "Ctrl-V to paste clipboard objects"
-msgstr "Ctrl-V para pegar el clip del portapapeles"
+msgstr "Ctrl-V i ludo gwrthrychau o'r clipfwrdd"
 
 #v1.1.31
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
-msgstr "Suelta el botón izquierdo para terminar la selección rectangular"
+msgstr "Rhyddhewch botwm chwith i orffen dewisiad petryal"
 
 #v1.4.15
 msgctxt "editor_tip_rot_left"
 msgid "Release left button to stop rotating the selection"
-msgstr "Suelta el botón izquierdo para parar de rotar la selección"
+msgstr "Rhyddhewch botwm chwith i stopio cylchdroi'r dewisiad"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
 msgid "Del to delete selected signals"
-msgstr "Supr para borrar señal(es)"
+msgstr "Del i dileu signalau dewisol"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_drag"
 msgid "Drag to move selected signal"
-msgstr "Arrastra para mover la señal seleccionada"
+msgstr "Llusgwch i symud signal dewisol"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_esc"
 msgid "Esc to go to track edit mode"
-msgstr "Esc para volver al modo de edición de vía"
+msgstr "Esc i fynd i'r modd golygu trac"
 
 #v1.2.29
 msgctxt "editor_tip_sel_signal_flip"
 msgid "{} to flip direction of selected signals"
-msgstr "{} para cambiar la dirección de las señales seleccionadas"
+msgstr "{} i wrth-droi cyfeiriad signalau dewisol"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_left"
 msgid "Left click to select a signal"
-msgstr "Click izquierdo para seleccionar una señal"
+msgstr "Cliciwich chwith i ddewis signal"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_move"
 msgid "Release left button to stop moving the signal"
-msgstr "Suelta el botón izquierdo para parar de mover la señal"
+msgstr "Rhyddhewch botwm chwith i stopio symud y signal"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_sel_esc"
 msgid "Esc to clear selection"
-msgstr "Esc para limpiar la selección"
+msgstr "Esc i glirio dewisiad"
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_sleft"
 msgid "Shift left click to select additional signals"
-msgstr "Shift con click izquierdo para seleccionar más señales"
+msgstr "Sifft cliciwch chwith i ddewis signalau ychwanegol"
 
 #v1.5.41
 msgctxt "editor_tip_sel_track_flip"
 msgid "{} to flip side of selected parallel tracks"
-msgstr "{} para cambiar de lado las vías paralelas"
+msgstr "{} i wrth-droi ochr amldraciau dewisol"
 
 #v1.1.31
 msgctxt "editor_tip_station_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc para volver a modo edición"
+msgstr "Esc i fynd i'r modd golygu"
 
 #v1.1.31
 msgctxt "editor_tip_station_fin_esc"
 msgid "Esc to cancel"
-msgstr "Esc para cancelar"
+msgstr "Esc i ganslo"
 
 #v1.1.31
 msgctxt "editor_tip_station_fin_left"
 msgid "Left click to finish creating a new station platform"
-msgstr "Click izquierdo para terminar de crear los andenes de estación"
+msgstr "Cliciwch chwith i orffen creu platfform gorsaf newydd"
 
 #v1.1.31
 msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
-msgstr "Click izquierdo para crear los andenes de estación"
+msgstr "Cliciwch chwith i greu platfform gorsaf newydd"
 
 #v1.1.31
 msgctxt "editor_tip_undo"
 msgid "Ctrl-Z to undo the last edit"
-msgstr "Ctrl-Z para hacer deshacer la última edición"
+msgstr "Ctrl-Z i ddadwneud y golygiad olaf"
 
 #v1.1.31
 msgctxt "editor_tip_zoom"
 msgid "Zoom in to edit"
-msgstr "Aumenta el zoom para poder editar"
+msgstr "Chwyddo mewn i olygu"
 
 #v1.5.31
 msgctxt "editor_warn_closed"
@@ -4284,11 +4279,6 @@ msgstr "0 trosffordd"
 msgctxt "overpass_n_1"
 msgid "1 overpass"
 msgstr "1 trosffordd"
-
-#v1.1.31
-msgctxt "overpass_n_2"
-msgid "2 overpasses"
-msgstr "2 drosffordd"
 
 #v1.1.31
 msgctxt "overpass_n_many"
