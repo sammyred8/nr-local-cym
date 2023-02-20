@@ -2738,227 +2738,227 @@ msgstr "Sgipio [{0}] {1}"
 #v1.1.31
 msgctxt "line_state"
 msgid "State"
-msgstr "Estado"
+msgstr "Cyflwr"
 
 #v1.1.31
 msgctxt "line_stop_passthru_short"
 msgid "Pass"
-msgstr "Pasa"
+msgstr "Pas"
 
 #v1.1.31
 msgctxt "line_stops"
 msgid "Stops"
-msgstr "Paradas"
+msgstr "Arosiadau"
 
 #v1.5.31
 msgctxt "line_timetable"
 msgid "Timetable"
-msgstr "Horario"
+msgstr "Amserlen"
 
 #v1.5.31
 msgctxt "line_to2"
 msgid "{} [{}] to"
-msgstr "{} [{}] a"
+msgstr "{} [{}] i"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
-msgstr "Andenes secundarios:"
+msgstr "Platfformau eilaidd:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms_n"
 msgid "(Total: {})"
-msgstr "(Total: {})"
+msgstr "(Cyfanswm: {})"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal"
 msgid "Secondary plat. signal:"
-msgstr "Señal disc. andenes:"
+msgstr "Signal plat. eilaidd:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
 msgid "Signal {}"
-msgstr "Señal {}"
+msgstr "Signal {}"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto"
 msgid "Auto interval:"
-msgstr "Auto intervalo:"
+msgstr "Awtogyfwng:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "Añade uno o más trenes en auto recorrido"
+msgstr "Ychwanegwch un neu rhagor trenau awtoredeg"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
 msgid "Launch trains:"
-msgstr "Lanzamiento:"
+msgstr "Lawnsio trenau:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_fit"
 msgid "Evenly spaced to fit one line loop"
-msgstr "Espaciados uniformemente en un recorrido"
+msgstr "Bylchwyd yn gyfartal i ffitio un dolen y lein"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "En intervalo manual y fijo"
+msgstr "Ar cyfwng penodol"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
 msgid "Auto run line"
-msgstr "Auto recorrido de línea"
+msgstr "Awtoredeg y lein"
 
 #v1.2.22
 msgctxt "lineeditor_auto_value"
 msgid "Auto"
-msgstr "Auto"
+msgstr "Awto"
 
 #v1.2.22
 msgctxt "lineeditor_basics"
 msgid "Basics"
-msgstr "Básico"
+msgstr "Hanfodion"
 
 #v1.1.31
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
-msgstr "Construye los planos para activar este andén"
+msgstr "Adeiladwch eich glasbrint traciau i alluogi y platfform hwn"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent"
 msgid "Stop properties:"
-msgstr "Parada:"
+msgstr "Dewisiadau yr arhosiad:"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent_clone"
 msgid "Copy from parent line"
-msgstr "Copiar de línea padre"
+msgstr "Copïo o'r lein rheiant"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent_custom"
 msgid "Customize for this line service"
-msgstr "Cambiar para este servicio"
+msgstr "Addasu ar gyfer y gwasanaeth lein hwn"
 
 #v1.1.31
 msgctxt "lineeditor_code"
 msgid "Code:"
-msgstr "Código:"
+msgstr "Cod:"
 
 #v1.1.31
 msgctxt "lineeditor_color"
 msgid "Color:"
-msgstr "Color:"
+msgstr "Lliw:"
 
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
-msgstr "Vel. crucero (km/h):"
+msgstr "Cyflymder mordaith (km/h):"
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_desc"
 msgid "Trains will try to accelerate to and keep this speed while traveling between stops.\nTrains might speed up if they are late."
-msgstr "Los trenes intentarán mantener esta velocidad al viajar entre paradas. Podrán ir más rápido si van con retraso."
+msgstr "Byddant trenau'n ceisio cyflymu i a chadw y cyflymder hwn pan teithio rhwng arosiadau.\nEfallai y byddant trenau'n cyflymu os mae nhw'n diweddar."
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_ns"
 msgid "Cruise speed:"
-msgstr "Velocidad crucero:"
+msgstr "Cyflymder mordaith:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
 msgid "Custom duration:"
-msgstr "Duración manual:"
+msgstr "Parhad addasu:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Formato: hh:mm:ss\nSi la duración de la línea es inferior a este valor, las paradas marcadas como de pausa de duración manual tendrán tiempo de espera extra, hasta que la duración total coincida con la duración manual.\nEl tiempo extra se distribuirá entre las paradas marcadas de pausa manual. Si no hay paradas marcadas se utilizará la última parada de la línea."
+msgstr "Ffurf: aa:mm:ee\nOs mae parhad y lein yn byrrach na swm hwn, arosiadau wedi'u nodi fel arosiadau parhad addasu byddant gan aros amser stopio ychwanegol, tan parhad y lein yn cydweddu parhad addasu.\nMae'r amser ychwanegol yn dosbarthu yn gyfartal dros yr arosiadau. Os na ddewiswyd arosiadau fel aros addasu, mae'r arhosiad olaf y lein yn defnyddio."
 
 #v1.5.31
 msgctxt "lineeditor_custom_period"
 msgid "Custom period:"
-msgstr "Periodo manual:"
+msgstr "Cyfnod addasu:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
 msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr "Formato: hh:mm:ss\n.La duración de la línea se elegirá automaticamente para encajar perfectamente en este periodo de tiempo. El periodo en si no garantiza que encaje perfectamente en días o semanas."
+msgstr "Ffurf: aa:mm:ee\n.Bydd parhad y lein yn dewis i ffitio'r cyfnod o amser hwn yn perffaith. Nid yw'r gosodiad addasu hwn gwarantu fitio dyddiau neu wythnosau."
 
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Permitir parada de duración manual"
+msgstr "Parhad aros addasu yn yr arhosiad hwn"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
 msgid "Default timings"
-msgstr "Tiempos por defecto"
+msgstr "Amseriadiau gwreiddiol"
 
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
-msgstr "Manual"
+msgstr "Addasu"
 
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
 msgid "Fit a period"
-msgstr "Encajar un periodo"
+msgstr "Ffitio cyfnod"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode"
 msgid "Line duration:"
-msgstr "Duración de línea:"
+msgstr "Parhad y lein:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode_minimal"
 msgid "Minimal"
-msgstr "Mínima"
+msgstr "Minimol"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period"
 msgid "Period:"
-msgstr "Periodo:"
+msgstr "Cyfnod:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_custom"
 msgid "Custom"
-msgstr "Manual"
+msgstr "Addasu"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Dydd"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Wythnos"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
 msgid "Extra stop time on:"
-msgstr "Espera extra en:"
+msgstr "Amser stopio ychwanegol ar:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_all"
 msgid "Evenly on all stops"
-msgstr "Uniforme en todas las paradas"
+msgstr "Yn gyfartal dros pob arosiadau"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
-msgstr "Paradas elegidas manualmente"
+msgstr "Arosiadau dewiswyd"
 
 #v1.2.22
 msgctxt "lineeditor_header_full"
 msgid "{0}, {1} km, {2}, {3} km/h avg."
-msgstr "{0}, {1} km, {2}, {3} km/h media"
+msgstr "cyfartalog {0}, {1} km, {2}, {3} km/h"
 
 #v1.5.31
 msgctxt "lineeditor_header_full_tooltip"
 msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}"
-msgstr "Vuelta manual: {0}\nSin vuelta manual: {1}\Vuelta mínima: {2}\nSin vuelta mínima: {3}"
+msgstr "Dolen addasu: {0}\nDi-dolen addasu: {1}\Dolen minimol: {2}\nDi-dolen minimol: {3}"
 
 #v1.2.22
 msgctxt "lineeditor_header_l"
@@ -2968,32 +2968,32 @@ msgstr "{0}, {1} km"
 #v1.5.31
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr "Salida del primer tren:"
+msgstr "Ymadawiad trên cyntaf:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Formato: hh:mm:ss\nHora de la salida del primer tren de recorrido automático.\nEsta opción solo se aplica a trenes de recorrido automático.\nLos trenes en modo manual o en modo copia ignoran esta opción."
+msgstr "Ffurf: aa:mm:ee\nAmser am ymadawiad cyntaf ar arhosiad cyntaf i drên awtomatig cyntaf.\nMae'r gosodiad hwn yn gweithredu yn unig am trenau yn modd gorchmynion awtomatig.\nMae trenau gyda gorchmynion addasu yn defynddio'r lein hwn yn anwybyddu y gosodiad hwn a nid yw cyfri at cyfrifiad cyfwng."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta"
 msgid "Effective time:"
-msgstr "Tiempo efectivo:"
+msgstr "Amser effeithiol:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_speed"
 msgid "Custom speed (km/h):"
-msgstr "Velocidad (km/h):"
+msgstr "Cyflymder addasu (km/h):"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time"
 msgid "Custom time:"
-msgstr "Tiempo:"
+msgstr "Amser addasu:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time_desc"
 msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
-msgstr "Format: (hh:)mm:ss\nSe intentará aproximar este tiempo mediante velocidad de crucero.\nPodría ignorarse si la velocidad resultante es demasiado lenta o rápida.\nLos trenes pueden ignorar este tiempo si van retrasados."
+msgstr "Ffurf: (aa:)mm:ee\nSe intentará aproximar este tiempo mediante velocidad de crucero.\nPodría ignorarse si la velocidad resultante es demasiado lenta o rápida.\nLos trenes pueden ignorar este tiempo si van retrasados."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
