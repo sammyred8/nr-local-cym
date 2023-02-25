@@ -3848,147 +3848,147 @@ msgstr "Mensaje del anfitrión"
 #v1.1.37
 msgctxt "motd_desc"
 msgid "Optionally write here a message to be shown to all clients on joining your game."
-msgstr "Opcionalmente puedes escribir un mensaje para mostrar a todos los clientes que entran a tu partida"
+msgstr "Opsiynol: Ysgriffenwch yma neges i fod yn arddangos i bob cleientiaid pan ymuno eich gêm."
 
 #v1.1.37
 msgctxt "motd_empty_text"
 msgid "< Host message is empty >"
-msgstr "< Mensaje de anfitrión vacío >"
+msgstr "< Neges lletywr yn gwag >"
 
 #v1.1.37
 msgctxt "motd_empty_url"
 msgid "< Host chat link is empty or invalid >"
-msgstr "< Enlace de chat de anfitrión inválido o vacío >"
+msgstr "< Linc sgwrs lletywr yn gwag neu annilys >"
 
 #v1.1.37
 msgctxt "motd_url_desc"
 msgid "Optionally paste here a URL that clients can visit to join your chat. For example, a Discord invite."
-msgstr "Opcionalmente pega aquí una URL que los jugadores pueden visitar para unirse a un chat. Por ejemplo, una invitación a Discord."
+msgstr "Opsiynol: Gludwch yma URL y gall cleientiaid ymweld ag i ymuno eich sgwrs. Er enghraifft, gwahoddiad Discord."
 
 #v1.1.31
 msgctxt "mp_action_allow"
 msgid "Allow"
-msgstr "Permitir"
+msgstr "Caniatáu"
 
 #v1.1.31
 msgctxt "mp_action_block"
 msgid "Block"
-msgstr "Bloquear"
+msgstr "Blocio"
 
 #v1.1.31
 msgctxt "mp_action_deny"
 msgid "Deny"
-msgstr "Rechazar"
+msgstr "Gwadu"
 
 #v1.1.31
 msgctxt "mp_action_disconnect"
 msgid "Disconnect"
-msgstr "Desconectar"
+msgstr "Datgysylltu"
 
 #v1.1.31
 msgctxt "mp_action_forget"
 msgid "Forget"
-msgstr "Olvidar"
+msgstr "Anghofio"
 
 #v1.1.31
 msgctxt "mp_action_host_to_invite"
 msgid "Host to invite"
-msgstr "Hospeda para invitar"
+msgstr "Lletywr i wahodd"
 
 #v1.1.31
 msgctxt "mp_action_invite"
 msgid "Invite"
-msgstr "Invitar"
+msgstr "Gwahodd"
 
 #v1.1.31
 msgctxt "mp_action_req_join"
 msgid "Request join"
-msgstr "Pedir entrada"
+msgstr "Ceisio mynediad"
 
 #v1.1.31
 msgctxt "mp_client_info"
 msgid "Server information"
-msgstr "Info servidor"
+msgstr "Gwybodaeth gweinyddwr"
 
 #v1.1.31
 msgctxt "mp_host_label"
 msgid "Host"
-msgstr "Anfitrión"
+msgstr "Lletywr"
 
 #v1.1.31
 msgctxt "mp_info_acl"
 msgid "Access"
-msgstr "Acceso"
+msgstr "Cyrchu"
 
 #v1.1.31
 msgctxt "mp_info_connected"
 msgid "Connected"
-msgstr "Conectado"
+msgstr "Cysylltwyd"
 
 #v1.1.31
 msgctxt "mp_info_invite"
 msgid "Invite"
-msgstr "Invitar"
+msgstr "Gwahodd"
 
 #v1.1.31
 msgctxt "mp_server_info"
 msgid "Server management"
-msgstr "Admin servidor"
+msgstr "Rheolaeth gweinyddwr"
 
 #v1.1.31
 msgctxt "mpinfo_stats_game"
 msgid "Game stats"
-msgstr "Estat. partida"
+msgstr "Ystadegau y gêm"
 
 #v1.1.31
 msgctxt "mpinfo_stats_net"
 msgid "Net stats"
-msgstr "Estat. red"
+msgstr "Ystadegau net"
 
 #v1.1.37
 msgctxt "mpinfo_stats_stream"
 msgid "Stream stats (hoster UI)"
-msgstr "Estadísticas streaming (anfitrión)"
+msgstr "Ystadegau ffrydio (lletywr)"
 
 #v1.1.31
 msgctxt "msaa_mode"
 msgid "MSAA:"
-msgstr "MSAA:"
+msgstr "Amlsampl Dadamgennu:"
 
 #v1.1.58
 msgctxt "msg_loading_error"
 msgid "Error loading game"
-msgstr "Error cargando partida"
+msgstr "Gwall llwytho gêm"
 
 #v1.1.58
 msgctxt "msg_loading_game_default"
 msgid "The game is being loaded, please wait."
-msgstr "Se está cargando la partida, por favor espere."
+msgstr "Mae'r gêm yn llwytho, aroswch os gwelwch yn dda."
 
 #v1.1.58
 msgctxt "msg_loading_game_taks"
 msgid "The game is being loaded: {}..."
-msgstr "Cargando partida: {}..."
+msgstr "Mae'r gêm yn llwytho: {}..."
 
 #v1.1.58
 msgctxt "msg_loading_game_title"
 msgid "Loading game"
-msgstr "Cargando partida"
+msgstr "Llwytho gêm"
 
 #v1.1.31
 msgctxt "multiplayer"
 msgid "Multiplayer"
-msgstr "Multijugador"
+msgstr "Aml-chwaraewyr"
 
 #v1.4.15
 msgctxt "mvo_user_labels"
 msgid "User labels"
-msgstr "Etiquetas de usuario"
+msgstr "Labeli defnyddwyr"
 
 #v1.4.15
 msgctxt "mvo_user_layer_draw_over_O"
 msgid "O"
-msgstr "S"
+msgstr "Dr"
 
 #v1.4.15
 msgctxt "mvo_user_layer_draw_roof_R"
@@ -3998,262 +3998,262 @@ msgstr "T"
 #v1.4.15
 msgctxt "mvo_user_layer_draw_under_U"
 msgid "U"
-msgstr "B"
+msgstr "Dn"
 
 #v1.4.15
 msgctxt "mvo_user_layer_toggles"
 msgid "Display layers:"
-msgstr "Mostrar niveles:"
+msgstr "Dangos lefelau:"
 
 #v1.1.37
 msgctxt "mvo_user_line_stops"
 msgid "Line stops"
-msgstr "Paradas de líneas"
+msgstr "Arosiadau lein"
 
 #v1.1.58
 msgctxt "mvo_user_map_region_names"
 msgid "Map labels"
-msgstr "Etiquetas de mapa"
+msgstr "Labeli map"
 
 #v1.4.15
 msgctxt "mvo_user_platform_names"
 msgid "Platform names"
-msgstr "Nombres de andén"
+msgstr "Enwau platfform"
 
 #v1.2.22
 msgctxt "mvo_user_signals"
 msgid "Signals"
-msgstr "Señales"
+msgstr "Signalau"
 
 #v1.1.37
 msgctxt "mvo_user_station_event"
 msgid "Station events"
-msgstr "Eventos de estación"
+msgstr "Digwyddiadau gorsaf"
 
 #v1.1.37
 msgctxt "mvo_user_station_icons"
 msgid "Station icons"
-msgstr "Iconos de estación"
+msgstr "Eiconau gorsaf"
 
 #v1.1.37
 msgctxt "mvo_user_station_names"
 msgid "Station names"
-msgstr "Nombres de estación"
+msgstr "Enwau gorsaf"
 
 #v1.4.15
 msgctxt "mvo_user_track_depth"
 msgid "Tunnels under roads"
-msgstr "Túneles bajo calles"
+msgstr "Twnelau dan ffordd"
 
 #v1.1.37
 msgctxt "mvo_user_train_counters"
 msgid "Train counters"
-msgstr "Contadores de tren"
+msgstr "Rhifyddion trên"
 
 #v1.1.37
 msgctxt "mvo_user_train_icons"
 msgid "Train icons"
-msgstr "Iconos de tren"
+msgstr "Eiconau trên"
 
 #v1.1.37
 msgctxt "mvo_user_zoom_out_tracks"
 msgid "Zoomed out tracks"
-msgstr "Vías en zoom abierto"
+msgstr "Traciau chwyddwyd allan"
 
 #v1.4.22
 msgctxt "my_collection"
 msgid "My collection"
-msgstr "Mi colección"
+msgstr "Fy nghasgliad"
 
 #v1.3.13
 msgctxt "name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Enw:"
 
 #v1.4.22
 msgctxt "new_collection"
 msgid "New collection"
-msgstr "Nueva colección"
+msgstr "Casgliad newydd"
 
 #v1.1.31
 msgctxt "new_game"
 msgid "New game"
-msgstr "Nueva partida"
+msgstr "Gêm newydd"
 
 #v1.1.31
 msgctxt "new_game_options"
 msgid "New game options"
-msgstr "Opciones de nueva partida"
+msgstr "Dewisiadau gêm newydd"
 
 #v1.2.22
 msgctxt "new_key_tip"
 msgid "Press new key or backspace to clear"
-msgstr "Pulsa la nueva tecla o borrar para limpiar"
+msgstr "Pwyswch bysell newydd neu olio i glirio"
 
 #v1.1.31
 msgctxt "new_loan"
 msgid "New loan"
-msgstr "Nuevo crédito"
+msgstr "Benthyciad newydd"
 
 #v1.1.31
 msgctxt "new_mod_id_placeholder"
 msgid "<New mod>"
-msgstr "<Nuevo mod>"
+msgstr "<Addasiad newydd>"
 
 #v1.1.31
 msgctxt "new_save_file_name"
 msgid "New save file name:"
-msgstr "Nombre de nueva partida guardada:"
+msgstr "Enw newydd y ffeil:"
 
 #v1.1.31
 msgctxt "new_save_placeholder"
 msgid "<Create new save>"
-msgstr "<Crear nueva partida guardada>"
+msgstr "<Creu ffeil newydd>"
 
 #v1.1.31
 msgctxt "no_cash_pop_desc"
 msgid "Not enough money to build the blueprint. Delete some blueprint tracks or make more money."
-msgstr "No hay suficiente dinero para construir los planos. Borra parte de los planos o consigue más dinero."
+msgstr "Dim digon o arian i adeiladu'r glasbrint. Dilewch rhai traciau glasbrint neu enill mwy o arian."
 
 #v1.1.37
 msgctxt "no_line_header"
 msgid "<No line>"
-msgstr "<Sin línea>"
+msgstr "<Dim lein>"
 
 #v1.1.31
 msgctxt "ok"
 msgid "OK"
-msgstr "OK"
+msgstr "Iawn"
 
 #v1.1.37
 msgctxt "open"
 msgid "Open"
-msgstr "Abrir"
+msgstr "Agor"
 
 #v1.4.15
 msgctxt "open_games_backup_folder_tooltip"
 msgid "Open saved games auto backup folder"
-msgstr "Abrir carpeta de auto backup de partidas"
+msgstr "Agor ffolder awtobacio gemau i fyny"
 
 #v1.1.37
 msgctxt "open_games_folder_tooltip"
 msgid "Open saved games folder"
-msgstr "Abrir carpeta de partidas guardadas"
+msgstr "Agor ffolder gemau cadwyd"
 
 #v1.3.13
 msgctxt "option_company_acc_export"
 msgid "Export accounting data"
-msgstr "Exportar contabilidad"
+msgstr "Allfudo data gyfrifydda"
 
 #v1.1.58
 msgctxt "option_company_demand"
 msgid "Pax demand factor:"
-msgstr "Factor demanda de pax:"
+msgstr "Ffactor galw teithwyr:"
 
 #v1.1.31
 msgctxt "option_company_name"
 msgid "Company name:"
-msgstr "Nombre empresa:"
+msgstr "Enw cwmni:"
 
 #v1.5.31
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr "Nueva vía desp. par.:"
+msgstr "Trac newydd ongli paralel:"
 
 #v1.5.31
 msgctxt "option_company_station_label"
 msgid "New station label:"
-msgstr "Etiqueta estación nueva:"
+msgstr "Label gorsaf newydd:"
 
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
 msgid "Switch to unlimited money"
-msgstr "Pasar a dinero ilimitado"
+msgstr "Switsio i arian diderfyn"
 
 #v1.1.31
 msgctxt "option_no_cash"
 msgid "Unlimited money"
-msgstr "Dinero ilimitado"
+msgstr "Arian diderfyn"
 
 #v1.1.31
 msgctxt "options"
 msgid "Options"
-msgstr "Opciones"
+msgstr "Dewisiadau"
 
 #v1.1.31
 msgctxt "options_general"
 msgid "General"
-msgstr "General"
+msgstr "Cyffredinol"
 
 #v1.1.31
 msgctxt "options_graphics"
 msgid "Graphics"
-msgstr "Gráficos"
+msgstr "Graffigau"
 
 #v1.2.22
 msgctxt "options_keybinds"
 msgid "Keybinds"
-msgstr "Teclas"
+msgstr "Rhwymiadau bysell"
 
 #v1.1.31
 msgctxt "options_mods_upload"
 msgid "Uploader"
-msgstr "Her. mods"
+msgstr "Llwythwr i fyny"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
 msgid "Empty line"
-msgstr "Línea vacía"
+msgstr "Lein gwag"
 
 #v1.5.31
 msgctxt "order_error_invalid_line"
 msgid "Invalid line"
-msgstr "Línea inválida"
+msgstr "Lein annilys"
 
 #v1.5.31
 msgctxt "order_error_not_fit"
 msgid "Runs do not fit between previous and next order"
-msgstr "No hay suficiente tiempo para crear recorridos entre esta orden y la siguiente"
+msgstr "Nid yw rhediadau yn ffitio rhwng gorchymyn blaenorol a nesaf"
 
 #v1.5.41
 msgctxt "order_error_two_arrival_by"
 msgid "Arrive No Later orders cannot appear one after the other"
-msgstr "Órdenes con <Llegar antes de> no pueden aparecer seguidas"
+msgstr "Ni all gorchmynion <Cyrraedd dim hwyrach na> ddigwydd un ar ôl y llall"
 
 #v1.5.31
 msgctxt "order_invalid_line"
 msgid "Invalid line"
-msgstr "Línea inválida"
+msgstr "Lein annilys"
 
 #v1.1.31
 msgctxt "osm_admin_level_10"
 msgid "Quarter"
-msgstr "Barrio"
+msgstr "Chwarter"
 
 #v1.1.31
 msgctxt "osm_admin_level_2"
 msgid "Country"
-msgstr "País"
+msgstr "Gwlad"
 
 #v1.1.31
 msgctxt "osm_admin_level_3"
 msgid "Zone"
-msgstr "Zona"
+msgstr "Ardal"
 
 #v1.1.31
 msgctxt "osm_admin_level_4"
 msgid "State"
-msgstr "Estado"
+msgstr "Talaith"
 
 #v1.1.31
 msgctxt "osm_admin_level_5"
 msgid "Region"
-msgstr "Región"
+msgstr "Rhanbarth"
 
 #v1.1.31
 msgctxt "osm_admin_level_6"
 msgid "County"
-msgstr "Comarca"
+msgstr "Sir"
 
 #v1.1.31
 msgctxt "osm_admin_level_7"
@@ -4263,12 +4263,12 @@ msgstr "Metro"
 #v1.1.31
 msgctxt "osm_admin_level_8"
 msgid "City"
-msgstr "Ciudad"
+msgstr "Dinas"
 
 #v1.1.31
 msgctxt "osm_admin_level_9"
 msgid "Ward"
-msgstr "Distrito"
+msgstr "Ward"
 
 #v1.1.31
 msgctxt "overpass_n_0"
@@ -4288,42 +4288,42 @@ msgstr "%d trosffordd"
 #v1.1.31
 msgctxt "overwrite"
 msgid "Overwrite"
-msgstr "Sobreescribir"
+msgstr "Trosysgrifo"
 
 #v1.1.31
 msgctxt "overwrite_file"
 msgid "Overwrite file"
-msgstr "Sobreescribir archivo"
+msgstr "Trosysgrifo ffeil"
 
 #v1.1.37
 msgctxt "overwrite_other_version_file"
 msgid "Overwrite other version file"
-msgstr "Sobreescribir partida de otra versión"
+msgstr "Trosysgrifo ffeil fersiwn arall"
 
 #v1.1.31
 msgctxt "ovewrite_name"
 msgid "Overwrite {}?"
-msgstr "Sobreescribir {}?"
+msgstr "Trosysgrifo {}?"
 
 #v1.1.37
 msgctxt "ovewrite_other_desc"
 msgid "{} was saved with a different game version. Do you want to overwrite it, or rename it to keep its original contents, then save the game?"
-msgstr "{} se guardó con otra versión del juego. Quieres sobreescribirla, o renombrarla para mantener su contenido, y entonces guardar tu partida?"
+msgstr "Cadwyd {} gyda fersiwn gêm arall. Rydych chi eisiau ei drosysgrifo, neu ei ailenwi i gadw ei cynnwys gwreiddiol, yna gadw'r gêm?"
 
 #v1.3.13
 msgctxt "parent"
 msgid "Parent:"
-msgstr "Padre:"
+msgstr "Rhiant:"
 
 #v1.1.31
 msgctxt "paste"
 msgid "Paste"
-msgstr "Pegar"
+msgstr "Gludo"
 
 #v1.5.31
 msgctxt "path2_arrive"
 msgid "Arrive at {}"
-msgstr "Llegada a {}"
+msgstr "Cyrraedd am {}"
 
 #v1.5.31
 msgctxt "path2_ride"
