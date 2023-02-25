@@ -1178,7 +1178,7 @@ msgstr "Un neu mwy o gwrthrychau mewn clip yn cyfeirio addasiad anhysbys:\n"
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_3"
 msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
-msgstr "Copïo gyda gosod i newid gwrthrychau anhysybys gyda gwrthrychau gosod, yn osgoi mewnfudo addasiadau a math gwrthrych newydd tu mewn eich gêm.\n"
+msgstr "Copïo gyda ymgorfforwyd i newid gwrthrychau anhysybys gyda gwrthrychau ymgorfforwyd, yn osgoi mewnfudo addasiadau a math gwrthrych newydd tu mewn eich gêm.\n"
 
 #v1.4.15
 msgctxt "confirm_clip_unknown_desc_4"
@@ -1933,7 +1933,7 @@ msgstr "Chwyddo mewn i olygu"
 #v1.5.31
 msgctxt "editor_warn_closed"
 msgid "Remember to set the service level to passenger service to allow pax to use this line."
-msgstr "Cofiwch gosod y lefel gwasanaeth i gwasanaeth teithwyr i gantiatáu teithwyr i ddefynddio'r lein hon."
+msgstr "Cofiwch gosod y lefel gwasanaeth i gwasanaeth teithwyr i gantiatáu teithwyr i ddefnyddio'r lein hon."
 
 #v1.2.22
 msgctxt "editor_warn_need_train_acc"
@@ -1948,7 +1948,7 @@ msgstr "Byddant teithwyr yn disgyn a ni fyddant yn byrddio trenau sy'n rhedeg y 
 #v1.5.31
 msgctxt "editor_warn_too_long_manual_interval"
 msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "Mae'r cyfwng defod yn fwy na parhad y lein. Bydd yn cael ei anwybyddu neu'n gweithio'n annibynadwy.\nCynyddwch parhad defod y lein i'r cyfwng defod o leiaf."
+msgstr "Mae'r cyfwng addasu yn fwy na parhad y lein. Bydd yn cael ei anwybyddu neu'n gweithio'n annibynadwy.\nCynyddwch parhad defod y lein i'r cyfwng addasu o leiaf."
 
 #v1.5.31
 msgctxt "editor_warn_train_speed_too_high"
@@ -2803,7 +2803,7 @@ msgstr "Bylchwyd yn gyfartal i ffitio un dolen y lein"
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "Ar cyfwng penodol"
+msgstr "Ar cyfwng addasu"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
@@ -2973,7 +2973,7 @@ msgstr "Ymadawiad trên cyntaf:"
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "Ffurf: aa:mm:ee\nAmser am ymadawiad cyntaf ar arhosiad cyntaf i drên awtomatig cyntaf.\nMae'r gosodiad hwn yn gweithredu yn unig am trenau yn modd gorchmynion awtomatig.\nMae trenau gyda gorchmynion addasu yn defynddio'r lein hwn yn anwybyddu y gosodiad hwn a nid yw cyfri at cyfrifiad cyfwng."
+msgstr "Ffurf: aa:mm:ee\nAmser am ymadawiad cyntaf ar arhosiad cyntaf i drên awtomatig cyntaf.\nMae'r gosodiad hwn yn gweithredu yn unig am trenau yn modd gorchmynion awtomatig.\nMae trenau gyda gorchmynion addasu yn defnyddio'r lein hwn yn anwybyddu y gosodiad hwn a nid yw cyfri at cyfrifiad cyfwng."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta"
@@ -2993,632 +2993,632 @@ msgstr "Amser addasu:"
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time_desc"
 msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
-msgstr "Ffurf: (aa:)mm:ee\nSe intentará aproximar este tiempo mediante velocidad de crucero.\nPodría ignorarse si la velocidad resultante es demasiado lenta o rápida.\nLos trenes pueden ignorar este tiempo si van retrasados."
+msgstr "Ffurf: (aa:)mm:ee\nBydd yr amser hwn addasu yn brasamcanu trwy canfod cyflymder mordaith.\nBydd hi'n anwybyddu os mae'r cyflymder canlyniadol yn rhy araf neu rhy cyflym.\nGall trenau cyflymu os mae nhw'n diweddar."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
 msgid "Leg timing:"
-msgstr "Tiempo de recorrido:"
+msgstr "Amseriad rhan:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_auto"
 msgid "Automatic"
-msgstr "Automático"
+msgstr "Awtomatig"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_speed"
 msgid "Custom speed"
-msgstr "Elegir velocidad"
+msgstr "Cyflymder addasu"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_time"
 msgid "Custom time"
-msgstr "Elegir tiempo"
+msgstr "Amser addasu"
 
 #v1.5.31
 msgctxt "lineeditor_main_platform"
 msgid "Main platform:"
-msgstr "Andén principal:"
+msgstr "Prif blatfform:"
 
 #v1.5.31
 msgctxt "lineeditor_manual_interval"
 msgid "Manual interval:"
-msgstr "Intervalo manual:"
+msgstr "Cyfyng addasu:"
 
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
-msgstr "Parada:"
+msgstr "Amser stopio:"
 
 #v1.5.31
 msgctxt "lineeditor_min_stop_time_desc"
 msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time. Trains might wait longer if pax are still leaving or boarding."
-msgstr "Formato: (hh:)mm:ss\nEl horario del tren programará una parada con esta duración. Puede aumentar si todavía hay pax entrando o saliendo."
+msgstr "Ffurf: (aa:)mm:ee\nBydd arosiadau yn amserlennu gyda amser aros hwn. Gall trenau aros yn hwy os mae'r teithwyr yn disgyn neu byrddio."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
 msgid "Pan and zoom view when selecting a line or station"
-msgstr "Centrar la cámara al seleccionar una línea o estación"
+msgstr "Tremio neu chwyddo'r golwg pan dewis lein neu orsaf."
 
 #v1.1.31
 msgctxt "lineeditor_name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Enw:"
 
 #v1.1.31
 msgctxt "lineeditor_price_base"
 msgid "Base ticket price:"
-msgstr "Precio base de billete:"
+msgstr "Pris isel y tocyn:"
 
 #v1.1.31
 msgctxt "lineeditor_price_km"
 msgid "Price per km:"
-msgstr "Precio por km de billete:"
+msgstr "Pris y cilomedr:"
 
 #v1.2.22
 msgctxt "lineeditor_reference_train"
 msgid "Reference train:"
-msgstr "Tren de referencia:"
+msgstr "Trên cyfeiriad:"
 
 #v1.2.22
 msgctxt "lineeditor_reference_train_desc"
 msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
-msgstr "Se utilizará este tren para hacer una simulación interna del recorrido y calcular los tramos."
+msgstr "Bydd efelychiad mewnol o'r trên hwn yn defnyddio ar gyfer cyfrifo'r amserau rhan."
 
 #v1.2.22
 msgctxt "lineeditor_service_level"
 msgid "Service level:"
-msgstr "Nivel de servicio:"
+msgstr "Lefel gwasanaeth:"
 
 #v1.2.22
 msgctxt "lineeditor_service_level_closed"
 msgid "Closed"
-msgstr "Cerrado"
+msgstr "Ar gau"
 
 #v1.5.31
 msgctxt "lineeditor_service_level_full"
 msgid "Passenger service"
-msgstr "Pasajeros"
+msgstr "Gwasanaeth teithwyr"
 
 #v1.5.31
 msgctxt "lineeditor_service_level_only_trains"
 msgid "Technical maneuvers"
-msgstr "Maniobras técnicas"
+msgstr "Cad-drefniannau technegol"
 
 #v1.5.41
 msgctxt "lineeditor_service_of"
 msgid "Service of:"
-msgstr "Servicio de:"
+msgstr "Gwasanaeth o:"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
 msgid "Stop {}"
-msgstr "Parada {}"
+msgstr "Arhosiad {}"
 
 #v1.5.41
 msgctxt "lineeditor_stop_panel_leg_title"
 msgid "Leg {0} {1} {2}"
-msgstr "Recorrido {0} {1} {2}"
+msgstr "Rhan {0} {1} {2}"
 
 #v1.5.41
 msgctxt "lineeditor_stop_panel_line_service_stop"
 msgid "Line service stop"
-msgstr "Parada de un servicio"
+msgstr "Arhosiad gwasanaeth lein"
 
 #v1.5.41
 msgctxt "lineeditor_suffix"
 msgid "Suffix:"
-msgstr "Sufijo:"
+msgstr "Ôl-ddodiad:"
 
 #v1.3.13
 msgctxt "lineeditor_tags"
 msgid "Tags:"
-msgstr "Tags:"
+msgstr "Tagiau:"
 
 #v1.5.41
 msgctxt "lineeditor_tags_inherit_parent"
 msgid "Parent line tags are also inherited by trains\n"
-msgstr "Las etiquetas del padre son heredadas por los trenes de sus servicios\n"
+msgstr "Mae tagiau y lein rhiant yn etifeddu hefyd\n"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_stop_mode"
 msgid "Add stops to line"
-msgstr "Añadir paradas a la línea"
+msgstr "Addasu arosiadau i lein"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_waypoint_mode"
 msgid "Add waypoints to line"
-msgstr "Añadir puntos de paso a la línea"
+msgstr "Addasu cyfeirbwyntiau i lein"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_clone"
 msgid "Clone selected line"
-msgstr "Clonar línea seleccionada"
+msgstr "Clonio lein dewiswyd"
 
 #v1.5.41
 msgctxt "lineeditor_tooltip_create_line_service"
 msgid "Create a new line service"
-msgstr "Crear nuevo servicio"
+msgstr "Creu gwasanaeth lein newydd"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_del"
 msgid "Delete selected line"
-msgstr "Eliminar línea seleccionada"
+msgstr "Dileu lein dewiswyd"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_del_stop"
 msgid "Delete selected stop"
-msgstr "Eliminar parada seleccionada"
+msgstr "Dileu arhosiad dewiswyd"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_depot_new"
 msgid "Create a new depot line"
-msgstr "Crear nueva línea de depósito"
+msgstr "Creu lein storfa newydd"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_shift"
 msgid "Shift down all line stops"
-msgstr "Desplazar abajo todas las paradas"
+msgstr "Symud i lawr pob arosiadau y lein"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_stop"
 msgid "Move down selected stop\nHold shift to shift down"
-msgstr "Mover la parada abajo\nPresiona shift para desplazar la línea"
+msgstr "Symud i lawr arhosiad dewiswyd\nGafael Sifft i symud i lawr"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_intervention"
 msgid "Issue an intervention to all trains currently running the selected line"
-msgstr "Intervenir todos los trenes recorriendo la línea"
+msgstr "Ymyrryd gyda pob trenau yn rhedeg y lein dewiswyd"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_new"
 msgid "Create a new line"
-msgstr "Crear nueva línea"
+msgstr "Creu lein newydd"
 
 #v1.1.72
 msgctxt "lineeditor_tooltip_purchase_trains"
 msgid "Purchase new trains for this line"
-msgstr "Comprar nuevos trenes para esta línea"
+msgstr "Prynu trenau newydd i'r lein hon"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_shift"
 msgid "Shift up all line stops"
-msgstr "Desplazar arriba todas las paradas"
+msgstr "Symud i fyny pob arosiadau y lein"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_stop"
 msgid "Move up selected stop\nHold shift to shift up"
-msgstr "Mover la parada arriba\nPresiona shift para desplazar la línea"
+msgstr "Symud i fyny arhosiad dewiswyd\nGafael Sifft i symud i fyny"
 
 #v1.5.31
 msgctxt "lineeditor_tz"
 msgid "Time zone:"
-msgstr "Zona horaria:"
+msgstr "Cylchfa amser:"
 
 #v1.5.31
 msgctxt "lineeditor_tz_desc"
 msgid "Time zone of the first train departure time input."
-msgstr "Zona horaria de la hora de salida del primer tren."
+msgstr "Cylchfa amser y trên gyntaf."
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
 msgid "First stop station time zone"
-msgstr "Zona horaria de la primera estación"
+msgstr "Cylchfa amser yr orsaf gyntaf"
 
 #v1.5.31
 msgctxt "lineeditor_tz_line"
 msgid "Line"
-msgstr "Línea"
+msgstr "Lein"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
 msgid "Stop behavior:"
-msgstr "Tipo de parada:"
+msgstr "Ymddygaid yr arhosiad:"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_limbo"
 msgid "Black hole main, wait secondary"
-msgstr "Desaparece principal, espera secundaria"
+msgstr "Twll du yn brif, aros yn eilaidd"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_normal"
 msgid "Wait on platforms"
-msgstr "Espera en andenes"
+msgstr "Aros ar blatfformau"
 
 #v1.1.31
 msgctxt "lines"
 msgid "Lines"
-msgstr "Líneas"
+msgstr "Leiniau"
 
 #v1.1.31
 msgctxt "lines_n_0"
 msgid "0 lines"
-msgstr "0 líneas"
+msgstr "0 lein"
 
 #v1.1.31
 msgctxt "lines_n_1"
 msgid "1 line"
-msgstr "1 línea"
+msgstr "1 lein"
 
 #v1.1.31
 msgctxt "lines_n_many"
 msgid "%d lines"
-msgstr "%d líneas"
+msgstr "%d lein"
 
 #v1.5.41
 msgctxt "list_sort_compact"
 msgid "Compact"
-msgstr "Compacto"
+msgstr "Cryno"
 
 #v1.3.13
 msgctxt "list_sort_reverse"
 msgid "Reverse sorting"
-msgstr "Orden inverso"
+msgstr "Trefniad cildroad"
 
 #v1.1.31
 msgctxt "load_game"
 msgid "Load game"
-msgstr "Cargar partida"
+msgstr "Llwytho gêm"
 
 #v1.1.58
 msgctxt "loader_cancelling"
 msgid "Cancelling"
-msgstr "Cancelando"
+msgstr "Canslo"
 
 #v1.1.58
 msgctxt "loader_db_snapshot"
 msgid "Loading database snapshot"
-msgstr "Cargando base de datos"
+msgstr "Llwytho ciplun y cronfa ddata"
 
 #v1.1.58
 msgctxt "loader_decompressing"
 msgid "Decompressing"
-msgstr "Descomprimiendo"
+msgstr "Datgywasgu"
 
 #v1.1.58
 msgctxt "loader_deserializing"
 msgid "Deserializing"
-msgstr "Deserializando"
+msgstr "Digyfresu"
 
 #v1.1.58
 msgctxt "loader_error_invalid"
 msgid "Invalid state"
-msgstr "Estado inválido"
+msgstr "Cyflwr annilys"
 
 #v1.1.58
 msgctxt "loader_final"
 msgid "Finalizing"
-msgstr "Finalizando"
+msgstr "Gorffen"
 
 #v1.1.58
 msgctxt "loader_parsing_header"
 msgid "Parsing header"
-msgstr "Interpretando cabecera"
+msgstr "Dosrannu pennyn"
 
 #v1.1.58
 msgctxt "loader_prep_import"
 msgid "Preparing database import"
-msgstr "Preparando importación de base de datos"
+msgstr "Paratoi mewnforyn y cronfa ddata"
 
 #v1.1.58
 msgctxt "loader_scrubbing"
 msgid "Scrubbing"
-msgstr "Limpiando"
+msgstr "Sgrwbio"
 
 #v1.1.58
 msgctxt "loader_spawn"
 msgid "Spawning game loader"
-msgstr "Preparando cargador"
+msgstr "Silio llwythwr"
 
 #v1.3.13
 msgctxt "loader_stations_n"
 msgid "Validating stations, {} to go"
-msgstr "Validando estaciones, {} restantes"
+msgstr "Dilysu gorsafoedd, {} i fynd"
 
 #v1.5.31
 msgctxt "loader_timetables_init"
 msgid "Initializing timetables"
-msgstr "Inicializando horarios"
+msgstr "Ymgychwyn amserlenni"
 
 #v1.4.15
 msgctxt "loader_tracks_n"
 msgid "Validating tracks, {} to go"
-msgstr "Validando vías, {} restantes"
+msgstr "Dilysu traciau, {} i fynd"
 
 #v1.1.31
 msgctxt "loading_elip"
 msgid "Loading..."
-msgstr "Cargando..."
+msgstr "Llwytho..."
 
 #v1.1.31
 msgctxt "loan_balance"
 msgid "Balance:"
-msgstr "Balance:"
+msgstr "Gweddill:"
 
 #v1.1.31
 msgctxt "loan_contract_accept"
 msgid "Take new loan"
-msgstr "Pedir nuevo crédito"
+msgstr "Cymryd benthyciad newydd"
 
 #v1.1.31
 msgctxt "loan_contract_amount"
 msgid "$M Amount:"
-msgstr "Cantidad $M:"
+msgstr "Cyfanswm $M:"
 
 #v1.1.31
 msgctxt "loan_contract_ko"
 msgid "Not approved"
-msgstr "Rechazado"
+msgstr "Nid cymeradwyd"
 
 #v1.1.31
 msgctxt "loan_contract_monthly_payment"
 msgid "Monthly payment:"
-msgstr "Pago mensual:"
+msgstr "Tâl misol:"
 
 #v1.1.31
 msgctxt "loan_contract_rate"
 msgid "APR:"
-msgstr "TIN:"
+msgstr "CCB:"
 
 #v1.1.31
 msgctxt "loan_contract_total_interest"
 msgid "{} months interest:"
-msgstr "{} meses de interés:"
+msgstr "{} mis llog:"
 
 #v1.1.31
 msgctxt "loan_contract_years"
 msgid "Years:"
-msgstr "Años:"
+msgstr "Blwyddyn:"
 
 #v1.1.31
 msgctxt "loan_created_on"
 msgid "Created on:"
-msgstr "Creado en:"
+msgstr "Creu ar:"
 
 #v1.1.37
 msgctxt "loan_n"
 msgid "Loan {0} of {1}"
-msgstr "Crédito {0} de {1}"
+msgstr "Benthyciad {0} o {1}"
 
 #v1.1.31
 msgctxt "loan_need_admin"
 msgid "Only admins can take loans"
-msgstr "Solo los admins puede pedir crédito"
+msgstr "Dim ond gweinyddwr yn unig all cymryd benthyciadau"
 
 #v1.1.31
 msgctxt "loan_paid_interest"
 msgid "Paid interest:"
-msgstr "Interés pagado:"
+msgstr "Llog talwyd:"
 
 #v1.1.31
 msgctxt "loan_pay_early"
 msgid "Pay early ${}"
-msgstr "Liquidar ${}"
+msgstr "Talu yn gynnar ${}"
 
 #v1.1.31
 msgctxt "loan_payments"
 msgid "Payments:"
-msgstr "Pagos:"
+msgstr "Talidau:"
 
 #v1.1.31
 msgctxt "loan_payments_fmt"
 msgid "{0} out of {1}, next on {2}"
-msgstr "{0} de {1}, siguiente en {2}"
+msgstr "{0} o {1}, nesaf ar {2}"
 
 #v1.1.31
 msgctxt "loan_subtitle"
 msgid "${} per month"
-msgstr "${} mensual"
+msgstr "${} misol"
 
 #v1.1.31
 msgctxt "loan_title"
 msgid "${0} at {1:.3}% APR in {2} years"
-msgstr "${0} a {1:.3}% TIN en {2} años"
+msgstr "${0} am {1:.3}% CCB yn {2} blwyddyn"
 
 #v1.4.22
 msgctxt "local_bp_collection"
 msgid "Collection to upload:"
-msgstr "Colección a publicar:"
+msgstr "Casglaid i lwytho i fyny:"
 
 #v1.1.31
 msgctxt "local_mod"
 msgid "Local mod to upload:"
-msgstr "Mod local a subir:"
+msgstr "Addasiad lleol i lwytho i fyny:"
 
 #v1.1.31
 msgctxt "lonely_station"
 msgid "Lonely Station"
-msgstr "Estación Solitaria"
+msgstr "Gorsaf Unig"
 
 #v1.1.31
 msgctxt "main_options"
 msgid "Options"
-msgstr "Opciones"
+msgstr "Dewisiadau"
 
 #v1.1.31
 msgctxt "map_names_eng"
 msgid "English"
-msgstr "Inglés"
+msgstr "Saesneg"
 
 #v1.1.31
 msgctxt "map_names_native"
 msgid "Native"
-msgstr "Nativo"
+msgstr "Brodor"
 
 #v1.1.31
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Prioridad nombres mapa:"
+msgstr "Blaenoriaeth enwau map:"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
 msgid "Delete all lines"
-msgstr "Borrar todas las líneas"
+msgstr "Dileu pob leiniau"
 
 #v1.5.31
 msgctxt "mass_del_lines_desc"
 msgid "Do you want to delete all lines?"
-msgstr "Quieres borrar todas las líneas?"
+msgstr "Rydych chi eisiau dileu pob leiniau?"
 
 #v1.5.31
 msgctxt "mass_del_lines_title"
 msgid "Delete all lines"
-msgstr "Borrar todas las líneas"
+msgstr "Dileu pob leiniau"
 
 #v1.5.31
 msgctxt "mass_del_lines_yes"
 msgid "Delete all"
-msgstr "Borrar todas"
+msgstr "Dileu pob"
 
 #v1.5.31
 msgctxt "mass_del_trains_but"
 msgid "Sell all trains"
-msgstr "Vender todos los trenes"
+msgstr "Gwerthu pob trenau"
 
 #v1.5.31
 msgctxt "mass_del_trains_desc"
 msgid "Do you want to sell all trains?"
-msgstr "Quieres vender todos los trenes?"
+msgstr "Rydych chi eisiau gwerthu pob trenau?"
 
 #v1.5.31
 msgctxt "mass_del_trains_title"
 msgid "Sell all trains"
-msgstr "Vender todos los trenes"
+msgstr "Gwerthu pob trenau"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_but"
 msgid "All stale trains intervention"
-msgstr "Intervenir trenes caducados"
+msgstr "Ymyrrydu pob trenau hen"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_desc"
 msgid "Do you want to issue an intervention to all stale trains for a price of ${}?"
-msgstr "Quieres intervenir todos los trenes caducados por ${}?"
+msgstr "Rydych chi eisiau ymyrrdu gyda pob trenau hen am pris ${}?"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_title"
 msgid "Confirm all stale trains intervention"
-msgstr "Confirmar intervención de trenes caducados"
+msgstr "Cadarnhau ymyrryd pob trenau hen"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
 msgid "All trains intervention"
-msgstr "Intervenir todos los trenes"
+msgstr "Ymyrrydu pob trenau"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_desc"
 msgid "Do you want to issue an intervention to all trains for a price of ${}?"
-msgstr "Quieres intervenir todos los trenes con un precio de ${}?"
+msgstr "Rydych chi eisiau ymyrrdu gyda pob tren am pris ${}?"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_title"
 msgid "Confirm all trains intervention"
-msgstr "Confirmar intervención de todos los trenes"
+msgstr "Cadarnhau ymyrryd pob trenau"
 
 #v1.5.41
 msgctxt "mass_recalc_all_lines_but"
 msgid "Refresh all line timings"
-msgstr "Refrescar todas las líneas"
+msgstr "Adnewyddu amseriad pob leiniau"
 
 #v1.1.37
 msgctxt "max_speed_desc"
 msgid "Map and UI is disabled in max speed mode. Slow down to cancel."
-msgstr "El mapa y el interfaz se desactivan en modo de máxima velocidad. Reduce la velocidad para cancelar."
+msgstr "Mae map a RhD yw analluogi yn modd cyflymder mwyaf. Arafwch i ganslo."
 
 #v1.3.13
 msgctxt "minutes"
 msgid "minutes"
-msgstr "minutos"
+msgstr "munud"
 
 #v1.1.37
 msgctxt "missing_mod"
 msgid "This mod data is enabled in the current game, but it is not installed in this PC. Some textures might be missing."
-msgstr "Este mod está activo en la partida, pero no está instalado en tu PC. Pueden faltar algunas texturas."
+msgstr "Mae'r addasiad hwn yn galluogwyd yn gêm hon, ond nid o'n gosodwyd ar y cyfrifiadur hon. Efallai bod rhai gweadau ar goll."
 
 #v1.1.31
 msgctxt "mod_author"
 msgid "Author:"
-msgstr "Autor:"
+msgstr "Awdur:"
 
 #v1.4.22
 msgctxt "mod_category_label"
 msgid "Category:"
-msgstr "Categoría:"
+msgstr "Categori:"
 
 #v1.1.31
 msgctxt "mod_desc"
 msgid "Description:"
-msgstr "Descripción:"
+msgstr "Disgrifiad:"
 
 #v1.1.37
 msgctxt "mod_disable_in_game"
 msgid "Disable in this game"
-msgstr "Desactivar en esta partida"
+msgstr "Analluogi yn y gêm hon"
 
 #v1.1.37
 msgctxt "mod_enable_all_installed"
 msgid "Enable all installed mods"
-msgstr "Activar todos los mods instalados"
+msgstr "Galluogi pob addasiadau gosodwyd"
 
 #v1.1.37
 msgctxt "mod_enable_in_game"
 msgid "Enable in this game"
-msgstr "Activar en esta partida"
+msgstr "Galluogi yn y gêm hon"
 
 #v1.1.37
 msgctxt "mod_icon_hint"
 msgid "JPG format in RGB, max 1MB"
-msgstr "Formato JPG RGB, máx 1MB"
+msgstr "Ffurf JPG CGG, macs 1MB"
 
 #v1.1.37
 msgctxt "mod_keep_desc"
 msgid "Keep Steamworks description"
-msgstr "Mantener descripción de Steamworks"
+msgstr "Cadw disgrifiad Steamworks"
 
 #v1.1.37
 msgctxt "mod_keep_icon"
 msgid "Keep Steamworks icon"
-msgstr "Mantener icono de Steamworks"
+msgstr "Cadw eicon Steamworks"
 
 #v1.4.22
 msgctxt "mod_kind_assets"
 msgid "Assets"
-msgstr "Recursos"
+msgstr "Asedau"
 
 #v1.4.22
 msgctxt "mod_kind_blueprints"
 msgid "Blueprints"
-msgstr "Planos"
+msgstr "Glasbrintiau"
 
 #v1.1.31
 msgctxt "mod_name"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Enw:"
 
 #v1.1.37
 msgctxt "mod_panel_list_title"
 msgid "Subscribed mods:"
-msgstr "Mods suscritos:"
+msgstr "Addasiadau tanysgrifiwyd:"
 
 #v1.1.37
 msgctxt "mod_panel_steamworks"
 msgid "Subscribe to new mods in the Workshop"
-msgstr "Suscribe nuevos mods en la Workshop"
+msgstr "Tanysgrifio i addasiadau newydd mewn Steam Workshop"
 
 #v1.1.31
 msgctxt "mod_source"
 msgid "Source:"
-msgstr "Fuente:"
+msgstr "Ffynhonell:"
 
 #v1.1.31
 msgctxt "mod_source_builtin"
 msgid "Built-in"
-msgstr "Estándar"
+msgstr "Ymgorfforwyd"
 
 #v1.1.31
 msgctxt "mod_source_local"
 msgid "Local"
-msgstr "Local"
+msgstr "Lleol"
 
 #v1.1.31
 msgctxt "mod_source_steamworks_ugc"
@@ -3628,217 +3628,217 @@ msgstr "Steamworks UGC"
 #v1.1.37
 msgctxt "mod_sub_all_not_installed"
 msgid "Subscribe to all missing mods"
-msgstr "Suscribe a todos los mods que faltan"
+msgstr "Tanysgrifio i bob addasiadau ar goll"
 
 #v1.1.31
 msgctxt "mod_uploader_busy"
 msgid "Uploading mod..."
-msgstr "Subiendo mod..."
+msgstr "Llwytho addasiad i fyny..."
 
 #v1.1.31
 msgctxt "mod_uploader_info"
 msgid "The mod uploader is a tool for mod developers. If you want to use mods when playing the game, subscribe to them in the Steam Workshop and enable them when creating a new game."
-msgstr "La herramienta de mods es para desarrolladores de mods. Si quieres utilizar mods mientras juegas, suscríbete en la Steam Workshop para activarlos y crea una nueva partida."
+msgstr "Llwythwr i fyny addasiadau yw offer i ddatblygwyr addasiad. Os rydych chi eisiau defnyddio addasiadau pan chwarae'r gêm, tanysgrifiwch i nhw mewn Steam Workshop a galluogi nhw pan creu gêm newydd."
 
 #v1.1.31
 msgctxt "mod_uploader_info_guide"
 msgid "Mod development guide"
-msgstr "Guía de desarrollo de mods"
+msgstr "Arweinlyfr i ddatblygwyr addasiad"
 
 #v1.1.31
 msgctxt "mod_uploader_info_open_browser"
 msgid "Visit Workshop"
-msgstr "Visitar Workshop"
+msgstr "Ymweld â Steam Workshop"
 
 #v1.1.31
 msgctxt "mod_uploader_info_player_workshop"
 msgid "Manage Workshop"
-msgstr "Admin. Workshop"
+msgstr "Rheoli Steam Workshop"
 
 #v1.1.31
 msgctxt "mod_uploader_info_use_uploader"
 msgid "Use Mod Uploader"
-msgstr "Utilizar herramienta mods"
+msgstr "Defnyddio llwythwr i fyny"
 
 #v1.1.31
 msgctxt "mod_uploader_new_mod"
 msgid "New mod"
-msgstr "Nuevo mod"
+msgstr "Addsiad newydd"
 
 #v1.1.31
 msgctxt "mod_uploader_not_in_game"
 msgid "The mod uploader cannot be used with a loaded game."
-msgstr "No se puede utilizar la herramienta de mods con una partida en curso."
+msgstr "Ni ellir llwythwr i fyny gyda gêm llwythwyd."
 
 #v1.1.31
 msgctxt "mod_uploader_update_mod"
 msgid "Update mod"
-msgstr "Actualizar mod"
+msgstr "Diweddaru addasiad"
 
 #v1.1.31
 msgctxt "mod_uploader_view_ws_mod"
 msgid "View mod in Workshop"
-msgstr "Ver mod en Workshop"
+msgstr "Ymweld ag addasiad mewn Steam Workshop"
 
 #v1.1.31
 msgctxt "mod_version"
 msgid "Version:"
-msgstr "Version:"
+msgstr "Fersiwn:"
 
 #v1.3.13
 msgctxt "mode_map_layer_regions"
 msgid "Regions layer"
-msgstr "Capa de regiones"
+msgstr "Lefel rhanbarthau"
 
 #v1.3.13
 msgctxt "mode_map_population"
 msgid "Population layer"
-msgstr "Capa de población"
+msgstr "Lefel poblogaeth"
 
 #v1.2.22
 msgctxt "mode_map_tracks"
 msgid "Plain tracks"
-msgstr "Vías por defecto"
+msgstr "Traciau plaen"
 
 #v1.2.22
 msgctxt "mode_map_tracks_lines"
 msgid "Lines overlay"
-msgstr "Capa de líneas"
+msgstr "Troshaen leiniau"
 
 #v1.2.22
 msgctxt "mode_map_tracks_signals"
 msgid "Track reservations"
-msgstr "Reservas de vía"
+msgstr "Tiriogaethau neilltuedig y trac"
 
 #v1.2.22
 msgctxt "mode_map_tracks_speed"
 msgid "Speed overlay"
-msgstr "Capa de velocidad"
+msgstr "Troshaen cyflymder"
 
 #v1.1.31
 msgctxt "mods"
 msgid "Mods"
-msgstr "Mods"
+msgstr "Addasiadau"
 
 #v1.1.31
 msgctxt "month_april"
 msgid "April"
-msgstr "Abril"
+msgstr "Ebrill"
 
 #v1.1.31
 msgctxt "month_august"
 msgid "August"
-msgstr "Agosto"
+msgstr "Awst"
 
 #v1.1.31
 msgctxt "month_december"
 msgid "December"
-msgstr "Diciembre"
+msgstr "Rhagfyr"
 
 #v1.1.31
 msgctxt "month_february"
 msgid "February"
-msgstr "Febrero"
+msgstr "Chwefror"
 
 #v1.1.31
 msgctxt "month_january"
 msgid "January"
-msgstr "Enero"
+msgstr "Ionawr"
 
 #v1.1.31
 msgctxt "month_july"
 msgid "July"
-msgstr "Julio"
+msgstr "Gorffenaf"
 
 #v1.1.31
 msgctxt "month_june"
 msgid "June"
-msgstr "Junio"
+msgstr "Mehefin"
 
 #v1.1.31
 msgctxt "month_march"
 msgid "March"
-msgstr "Marzo"
+msgstr "Mawrth"
 
 #v1.1.31
 msgctxt "month_may"
 msgid "May"
-msgstr "Mayo"
+msgstr "Mai"
 
 #v1.1.31
 msgctxt "month_november"
 msgid "November"
-msgstr "Noviembre"
+msgstr "Tachwedd"
 
 #v1.1.31
 msgctxt "month_october"
 msgid "October"
-msgstr "Octubre"
+msgstr "Hydref"
 
 #v1.1.31
 msgctxt "month_september"
 msgid "September"
-msgstr "Septiembre"
+msgstr "Medi"
 
 #v1.1.31
 msgctxt "month_short_april"
 msgid "Apr"
-msgstr "Abr"
+msgstr "Ebr"
 
 #v1.1.31
 msgctxt "month_short_august"
 msgid "Aug"
-msgstr "Ago"
+msgstr "Awst"
 
 #v1.1.31
 msgctxt "month_short_december"
 msgid "Dec"
-msgstr "Dic"
+msgstr "Rhag"
 
 #v1.1.31
 msgctxt "month_short_february"
 msgid "Feb"
-msgstr "Feb"
+msgstr "Chwe"
 
 #v1.1.31
 msgctxt "month_short_january"
 msgid "Jan"
-msgstr "Ene"
+msgstr "Ion"
 
 #v1.1.31
 msgctxt "month_short_july"
 msgid "Jul"
-msgstr "Jul"
+msgstr "Gor"
 
 #v1.1.31
 msgctxt "month_short_june"
 msgid "Jun"
-msgstr "Jun"
+msgstr "Meh"
 
 #v1.1.31
 msgctxt "month_short_march"
 msgid "Mar"
-msgstr "Mar"
+msgstr "Maw"
 
 #v1.1.31
 msgctxt "month_short_may"
 msgid "May"
-msgstr "May"
+msgstr "Mai"
 
 #v1.1.31
 msgctxt "month_short_november"
 msgid "Nov"
-msgstr "Nov"
+msgstr "Tach"
 
 #v1.1.31
 msgctxt "month_short_october"
 msgid "Oct"
-msgstr "Oct"
+msgstr "Hyd"
 
 #v1.1.31
 msgctxt "month_short_september"
 msgid "Sep"
-msgstr "Sep"
+msgstr "Medi"
 
 #v1.1.37
 msgctxt "motd"
@@ -5373,7 +5373,7 @@ msgstr "Hotel"
 #v1.3.13
 msgctxt "tag_info_builtin"
 msgid "Built-in tag"
-msgstr "Tag predefinida"
+msgstr "Tag ymgorfforwyd"
 
 #v1.3.13
 msgctxt "tag_info_def_name"
@@ -6668,7 +6668,7 @@ msgstr "Subir mod"
 #v1.4.15
 msgctxt "use_placeholders"
 msgid "Copy with built-in"
-msgstr "Copiar por defecto"
+msgstr "Copïo gyda ymgorfforwyd"
 
 #v1.1.37
 msgctxt "used_active_mod"
@@ -6728,7 +6728,7 @@ msgstr "Tranvía"
 #v1.1.31
 msgctxt "waypoint"
 msgid "Waypoint"
-msgstr "Punto de paso"
+msgstr "Cyfeirbwynt"
 
 #v1.5.31
 msgctxt "wedge_mode"
