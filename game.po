@@ -4948,87 +4948,87 @@ msgstr "Signal newydd"
 #v1.3.13
 msgctxt "signal_filter_applies"
 msgid "Applies to all trains"
-msgstr "Aplica a todos los trenes"
+msgstr "Gweithredu am pob trenau"
 
 #v1.3.13
 msgctxt "signal_filter_except"
 msgid "Except:"
-msgstr "Excepto:"
+msgstr "Ac eithrio:"
 
 #v1.3.13
 msgctxt "signal_filter_ignored"
 msgid "Ignored by all trains"
-msgstr "Ignorado por todos los trenes"
+msgstr "Anwybyddwyd gan pob trenau"
 
 #v1.3.13
 msgctxt "signal_filter_label"
 msgid "By default:"
-msgstr "Por defecto:"
+msgstr "Rhagosodiad:"
 
 #v1.3.13
 msgctxt "signal_filter_none"
 msgid "<No exceptions>"
-msgstr "<Sin excepciones>"
+msgstr "<Dim eithriadau>"
 
 #v1.3.13
 msgctxt "signal_filter_op_or"
 msgid "OR"
-msgstr "O"
+msgstr "NEU"
 
 #v1.2.22
 msgctxt "signal_flip"
 msgid "Flip"
-msgstr "Rotar"
+msgstr "Gwrth-droi"
 
 #v1.2.22
 msgctxt "signal_kind_block_balise"
 msgid "Block balise"
-msgstr "Baliza de bloque"
+msgstr "Balís bloc"
 
 #v1.3.13
 msgctxt "signal_kind_name_noway"
 msgid "No way"
-msgstr "Sin paso"
+msgstr "Dim ffordd"
 
 #v1.2.22
 msgctxt "signal_kind_name_oneway"
 msgid "One way"
-msgstr "Dirección única"
+msgstr "Unffordd"
 
 #v1.2.22
 msgctxt "signal_kind_name_platform_stop"
 msgid "Platform train stop point"
-msgstr "Punto de parada en andén"
+msgstr "Pwynt stopio y blatfform i drên"
 
 #v1.2.22
 msgctxt "signal_kind_path"
 msgid "Path signal"
-msgstr "Señal de camino"
+msgstr "Signal llwybr"
 
 #v1.2.22
 msgctxt "signal_kind_simple_block"
 msgid "Simple block"
-msgstr "Bloque simple"
+msgstr "Bloc syml"
 
 #v1.2.22
 msgctxt "signal_limits_block"
 msgid "Bounds other signals:"
-msgstr "Limita otras señales:"
+msgstr "Cyfyngu signalau eraill:"
 
 #v1.2.22
 msgctxt "signal_limits_block_always"
 msgid "Always"
-msgstr "Siempre"
+msgstr "Bob tro"
 
 #v1.2.22
 msgctxt "signal_limits_block_same"
 msgid "Only for same direction"
-msgstr "Solo para la misma dirección"
+msgstr "Dim ond cyfeiriad yr un fath"
 
 #v1.2.22
 msgctxt "signal_side"
 msgid "Side (cosmetic):"
-msgstr "Lado (cosmético):"
+msgstr "Ochr (cosmetig):"
 
 #v1.2.22
 msgctxt "signal_side_0"
@@ -5048,147 +5048,147 @@ msgstr "+1"
 #v1.2.22
 msgctxt "signal_stop_check_only_signals"
 msgid "Only signals"
-msgstr "Solo señales"
+msgstr "Signalau yn unig"
 
 #v1.2.22
 msgctxt "signal_stop_check_signals_stops"
 msgid "Signals and train stop"
-msgstr "Señales y parada de tren"
+msgstr "Signalau a stop trên"
 
 #v1.2.22
 msgctxt "signal_toggle"
 msgid "Toggle"
-msgstr "Alternar"
+msgstr "Toglo"
 
 #v1.2.22
 msgctxt "signal_type"
 msgid "Type:"
-msgstr "Tipo:"
+msgstr "Math:"
 
 #v1.3.13
 msgctxt "signal_warn_max_length"
 msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "El bloque protegido por esta señal es demasiado largo. Introduce más señales en el bloque, por ejemplo balizas, para hacerlo más corto."
+msgstr "Mae'r bloc trac yn diogelu gan y signal hwn yw rhy hir. Cyflwyno mwy o signalau yn y bloc hwn, fel balísau, i'w wneud yn fyrrach."
 
 #v1.3.13
 msgctxt "signal_warn_too_close"
 msgid "Too close"
-msgstr "Demasiado cerca"
+msgstr "Rhy agos"
 
 #v1.1.31
 msgctxt "single_player"
 msgid "Single player"
-msgstr "Un jugador"
+msgstr "Chwaraewr sengl"
 
 #v1.1.72
 msgctxt "sort_sep_accounting"
 msgid "--- Accounting ---"
-msgstr "--- Contabilidad ---"
+msgstr "--- Cyfrifon ---"
 
 #v1.1.72
 msgctxt "sort_sep_real_time"
 msgid "--- Real time ---"
-msgstr "--- Tiempo real ---"
+msgstr "--- Amser real ---"
 
 #v1.5.31
 msgctxt "stale_run"
 msgid "Stale run"
-msgstr "Recorrido obsoleto"
+msgstr "Rhediad hen"
 
 #v1.5.31
 msgctxt "stale_run_tooltip"
 msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
-msgstr "Las órdenes de este tren han cambiado. Al final de su recorrdio actual se teletransportará en la parada correcta.\nLos pax se distribuiran automáticamente en sus siguientes paradas."
+msgstr "Mae'r gorchmynion ar gyfer y trên hwn. Ar diwedd ei rhediad cyfredol mae o'n ailsilio ar yr arhosiad ar gyfer y gorchmynion newydd.\nByddant y teithyr yn adleoli i'w arosiadau nesaf yn awtomatig."
 
 #v1.1.31
 msgctxt "start_game"
 msgid "Start game"
-msgstr "Empezar partida"
+msgstr "Cychwyn y gêm"
 
 #v1.2.22
 msgctxt "station_editor"
 msgid "Station properties"
-msgstr "Propiedades de estación"
+msgstr "Dewisiadau gorsaf"
 
 #v1.5.31
 msgctxt "station_label_mode"
 msgid "Label:"
-msgstr "Etiqueta:"
+msgstr "Label:"
 
 #v1.5.31
 msgctxt "station_label_mode_dot_only"
 msgid "Dot only"
-msgstr "Solo un punto"
+msgstr "Dot yn unig"
 
 #v1.5.31
 msgctxt "station_label_mode_full"
 msgid "Full"
-msgstr "Completa"
+msgstr "Llawn"
 
 #v1.5.31
 msgctxt "station_label_mode_icon_only"
 msgid "Icon only"
-msgstr "Solo un icono"
+msgstr "Eicon yn unig"
 
 #v1.5.31
 msgctxt "station_label_mode_name_only"
 msgid "Name only"
-msgstr "Solo el nombre"
+msgstr "Enw yn unig"
 
 #v1.5.31
 msgctxt "station_label_mode_name_pop"
 msgid "Name and pax"
-msgstr "Nombre y pax"
+msgstr "Enw a theithwyr"
 
 #v1.1.31
 msgctxt "station_name_edit"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Enw:"
 
 #v1.1.37
 msgctxt "station_name_empty"
 msgid "<Empty name>"
-msgstr "<Nombre vacío>"
+msgstr "<Enw gwag>"
 
 #v1.1.31
 msgctxt "station_name_use_auto"
 msgid "Use automatic name"
-msgstr "Nombre automático"
+msgstr "Defnyddio'r enw awtomatig"
 
 #v1.4.15
 msgctxt "station_platform_auto_name"
 msgid "Platform auto name"
-msgstr "Auto nombre de andén"
+msgstr "Awto-enwi'r blatfform"
 
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
-msgstr "Nombre de andén:"
+msgstr "Enw'r blatfform:"
 
 #v1.1.31
 msgctxt "station_pop_area"
 msgid "Area:"
-msgstr "Area:"
+msgstr "Ardal:"
 
 #v1.1.31
 msgctxt "steam_chat"
 msgid "Steam Chat and Friends"
-msgstr "Steam Chat y Amigos"
+msgstr "Sgwrs a Ffrindiau Steam"
 
 #v1.1.31
 msgctxt "steam_chat_client_info"
 msgid "The Join Game options in Steam Chat and Steam Friends can be used to request access to other player games."
-msgstr "Las opciones para entrar a partida del Steam Chat y Amigos se pueden utilizar para pedir acceso a las partidas de otros jugadores."
+msgstr "Gall y dewisiadau "Join Game" yn Sgwrs Steam a Ffrindiau Steam yn defnyddio i geisio mynediad i gemau chwaraewr arall."
 
 #v1.1.31
 msgctxt "steam_chat_server_info"
 msgid "The Invite options in Steam Chat and Steam Friends can be used to invite other players to your hosted game. Your settings for the the Access rules apply to Steam invites."
-msgstr "Las opciones para invitar jugadores del Steam Chat y Amigos se pueden utilizar para invitar a otros jugadores a tu partida. Tus opciones para las reglas de acceso se aplican a estas invitaciones."
+msgstr "Gall y dewisiadau "Invite" yn Sgwrs Steam a Ffrindiau Steam yn defnyddio i wahodd chwaraewyr arall i'ch gêm. Mae eich gosodiadau ar gyfer rheolaethau Cyrchiad yn gweithredu i wahoddiadau Steam."
 
 #v1.1.31
 msgctxt "steam_friends"
 msgid "Steam Friends"
-msgstr "Amigos Steam"
+msgstr "Ffrindiau Steam"
 
 #v1.1.31
 msgctxt "steamworks_id"
@@ -5198,12 +5198,12 @@ msgstr "Steamworks ID:"
 #v1.1.31
 msgctxt "stop_idx"
 msgid "Stop {}"
-msgstr "Parada {}"
+msgstr "Arhosiad {}"
 
 #v1.5.31
 msgctxt "stop_leg_full2"
 msgid "{0}m at {1} km/h avg."
-msgstr "{0}m a {1} km/h media"
+msgstr "{0}m am {1} km/h cyfartalog"
 
 #v1.2.22
 msgctxt "stop_leg_l"
@@ -5213,57 +5213,57 @@ msgstr "{0}m"
 #v1.1.31
 msgctxt "stops_n_0"
 msgid "0 stops"
-msgstr "0 paradas"
+msgstr "0 arhosiad"
 
 #v1.1.31
 msgctxt "stops_n_1"
 msgid "1 stop"
-msgstr "1 parada"
+msgstr "1 arhosiad"
 
 #v1.1.31
 msgctxt "stops_n_many"
 msgid "%d stops"
-msgstr "%d paradas"
+msgstr "%d arhosiad"
 
 #v1.1.31
 msgctxt "strangers"
 msgid "Strangers"
-msgstr "Desconocidos"
+msgstr "Estroniaid"
 
 #v1.1.37
 msgctxt "stream_ahead_desc"
 msgid "You are ahead of the host. Pausing your clock to wait for it."
-msgstr "Vas por delante del anfitrión. Parando tu reloj para esperarlo."
+msgstr "Rydych chi'n o flaen y lletywr. Oedi eich cloc i aros amdano."
 
 #v1.4.22
 msgctxt "stream_catch_up_desc2"
 msgid "You are falling behind the host. Speeding up the clock to catch up. Lag frames: {}"
-msgstr "Te estás retrasando respecto al servidor. Acelerando el tiempo para alcanzarlo. Lag: {}"
+msgstr "Rydych chi ar ei hôl hi o'r lletywr. Cyflymu'r gloc i oddiweddi. Oediad: {}"
 
 #v1.1.31
 msgctxt "subs_in_workshop"
 msgid "Subscribe in Workshop"
-msgstr "Suscribirse en Workshop"
+msgstr "Tanysgrifio yn Workshop"
 
 #v1.1.37
 msgctxt "subscribe_to_mods"
 msgid "Subscribe to new mods"
-msgstr "Suscribirse a nuevos mods"
+msgstr "Tanysgrifio i addasiadau newydd"
 
 #v1.1.72
 msgctxt "switch_no_cash"
 msgid "Switch to unlimited"
-msgstr "Pasar a ilimitado"
+msgstr "Switsio i arian diderfyn"
 
 #v1.1.58
 msgctxt "tag_autorack"
 msgid "Autorack"
-msgstr "Autoexpreso"
+msgstr "Cludydd ceir"
 
 #v1.1.58
 msgctxt "tag_baggage"
 msgid "Baggage"
-msgstr "Equipaje"
+msgstr "Pac"
 
 #v1.1.58
 msgctxt "tag_bar"
@@ -5273,102 +5273,102 @@ msgstr "Bar"
 #v1.2.29
 msgctxt "tag_battery"
 msgid "Battery"
-msgstr "Batería"
+msgstr "Batri"
 
 #v1.1.58
 msgctxt "tag_brake"
 msgid "Brake"
-msgstr "Freno"
+msgstr "Brêc"
 
 #v1.1.58
 msgctxt "tag_broad"
 msgid "Broad"
-msgstr "Ancha"
+msgstr "Llydan"
 
 #v1.1.58
 msgctxt "tag_cable"
 msgid "Cable"
-msgstr "Cable"
+msgstr "Cebl"
 
 #v1.1.58
 msgctxt "tag_cable_car"
 msgid "Cable car"
-msgstr "Coche de cable"
+msgstr "Car cebl"
 
 #v1.1.58
 msgctxt "tag_coach"
 msgid "Coach"
-msgstr "Pasajeros"
+msgstr "Cerbyd"
 
 #v1.1.58
 msgctxt "tag_commuter"
 msgid "Commuter"
-msgstr "Cercanías"
+msgstr "Cymudwr"
 
 #v1.1.58
 msgctxt "tag_compartments"
 msgid "Compartments"
-msgstr "Cabinas"
+msgstr "Adrannau"
 
 #v1.3.13
 msgctxt "tag_del"
 msgid "Delete tag"
-msgstr "Borrar tag"
+msgstr "Dileu tag"
 
 #v1.1.58
 msgctxt "tag_diesel"
 msgid "Diesel"
-msgstr "Diésel"
+msgstr "Disel"
 
 #v1.1.58
 msgctxt "tag_electric"
 msgid "Electric"
-msgstr "Eléctrico"
+msgstr "Trydan"
 
 #v1.1.58
 msgctxt "tag_end_of_train"
 msgid "End of train"
-msgstr "Fin de tren"
+msgstr "Pen trên"
 
 #v1.1.58
 msgctxt "tag_fantasy"
 msgid "Fantasy"
-msgstr "Fantasía"
+msgstr "Ffantasi"
 
 #v1.1.58
 msgctxt "tag_filter_any"
 msgid "Any"
-msgstr "Cualquiera"
+msgstr "Unrhyw"
 
 #v1.1.58
 msgctxt "tag_filter_ignore"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Anwybyddu"
 
 #v1.1.58
 msgctxt "tag_filter_n_tags"
 msgid "{} tags"
-msgstr "{} etiquetas"
+msgstr "{} tag"
 
 #v1.1.58
 msgctxt "tag_generator"
 msgid "Generator"
-msgstr "Generador"
+msgstr "Generadur"
 
 #v1.1.58
 msgctxt "tag_heritage"
 msgid "Heritage"
-msgstr "Histórico"
+msgstr "Etifeddiaeth"
 
 #v1.1.58
 msgctxt "tag_high_speed"
 msgid "High speed"
-msgstr "Alta velocidad"
+msgstr "Cyflymder mawr"
 
 #v1.1.58
 msgctxt "tag_hotel"
 msgid "Hotel"
-msgstr "Hotel"
+msgstr "Gwesty"
 
 #v1.3.13
 msgctxt "tag_info_builtin"
@@ -5378,172 +5378,172 @@ msgstr "Tag ymgorfforwyd"
 #v1.3.13
 msgctxt "tag_info_def_name"
 msgid "New tag"
-msgstr "Nueva tag"
+msgstr "Tag newydd"
 
 #v1.3.13
 msgctxt "tag_info_mp"
 msgid "Cannot edit in multiplayer"
-msgstr "No se puede editar en multijugador"
+msgstr "Methu golygu yn aml-chwaraewr"
 
 #v1.3.13
 msgctxt "tag_info_top_level"
 msgid "<Top level>"
-msgstr "<Nivel superior>"
+msgstr "<Lefel pen>"
 
 #v1.1.58
 msgctxt "tag_intercity"
 msgid "Intercity"
-msgstr "Intercity"
+msgstr "Rhwng-dinas"
 
 #v1.1.58
 msgctxt "tag_light_rail"
 msgid "Light rail"
-msgstr "Ligero"
+msgstr "Rheilen ysgafn"
 
 #v1.1.58
 msgctxt "tag_linear_induction"
 msgid "Linear induction"
-msgstr "Inducción lineal"
+msgstr "Anwythiad llinol"
 
 #v1.1.58
 msgctxt "tag_locomotive"
 msgid "Locomotive"
-msgstr "Locomotora"
+msgstr "Locomotif"
 
 #v1.1.58
 msgctxt "tag_long_distance"
 msgid "Long distance"
-msgstr "Larga distancia"
+msgstr "Pellter hir"
 
 #v1.1.58
 msgctxt "tag_lounge"
 msgid "Lounge"
-msgstr "Salón"
+msgstr "Lolfa"
 
 #v1.1.58
 msgctxt "tag_maglev"
 msgid "Maglev"
-msgstr "Maglev"
+msgstr "Arnofio magnetig"
 
 #v1.1.58
 msgctxt "tag_metro"
 msgid "Metro"
-msgstr "Metro"
+msgstr "Tanddaearol"
 
 #v1.1.58
 msgctxt "tag_minimum_gauge"
 msgid "Minimum gauge"
-msgstr "Ancho mínimo"
+msgstr "Lled lleiaf"
 
 #v1.1.58
 msgctxt "tag_monorail"
 msgid "Monorail"
-msgstr "Monorail"
+msgstr "Unrheilen"
 
 #v1.1.58
 msgctxt "tag_mu"
 msgid "Multiple unit"
-msgstr "Unidad de tren"
+msgstr "Aml-uned"
 
 #v1.1.58
 msgctxt "tag_narrow"
 msgid "Narrow"
-msgstr "Estrecha"
+msgstr "Cul"
 
 #v1.3.13
 msgctxt "tag_new"
 msgid "New tag"
-msgstr "Nueva tag"
+msgstr "Tag newydd"
 
 #v1.1.58
 msgctxt "tag_observation"
 msgid "Observation"
-msgstr "Mirador"
+msgstr "Arsylw"
 
 #v1.1.58
 msgctxt "tag_people_mover"
 msgid "People mover"
-msgstr "People mover"
+msgstr "Symudydd pobl"
 
 #v1.1.58
 msgctxt "tag_private"
 msgid "Private"
-msgstr "Privado"
+msgstr "Preifat"
 
 #v1.1.58
 msgctxt "tag_prototype"
 msgid "Prototype"
-msgstr "Prototipo"
+msgstr "Prototeip"
 
 #v1.1.58
 msgctxt "tag_push_pull"
 msgid "Push-pull"
-msgstr "Push-pull"
+msgstr "Gwthio-tynnu"
 
 #v1.1.58
 msgctxt "tag_railbus"
 msgid "Railbus"
-msgstr "Railbus"
+msgstr "Bws rheilen"
 
 #v1.1.58
 msgctxt "tag_regional"
 msgid "Regional"
-msgstr "Regional"
+msgstr "Rhanbarthol"
 
 #v1.1.58
 msgctxt "tag_restaurant"
 msgid "Restaurant"
-msgstr "Restaurante"
+msgstr "Bwyty"
 
 #v1.1.58
 msgctxt "tag_shuttle"
 msgid "Shuttle"
-msgstr "Shuttle"
+msgstr "Gwennol"
 
 #v1.1.58
 msgctxt "tag_sitting"
 msgid "Sitting"
-msgstr "Plazas sentadas"
+msgstr "Eisteddiad"
 
 #v1.1.58
 msgctxt "tag_sleeper"
 msgid "Sleeper"
-msgstr "Dormitorio"
+msgstr "Cysgu"
 
 #v1.1.58
 msgctxt "tag_standard"
 msgid "Standard"
-msgstr "Estándar"
+msgstr "Safonol"
 
 #v1.1.58
 msgctxt "tag_standing"
 msgid "Standing"
-msgstr "Plazas de pie"
+msgstr "Safle"
 
 #v1.1.58
 msgctxt "tag_steam"
 msgid "Steam"
-msgstr "Vapor"
+msgstr "Ager"
 
 #v1.2.29
 msgctxt "tag_tank"
 msgid "Tank"
-msgstr "Depósito"
+msgstr "Tanc"
 
 #v1.1.58
 msgctxt "tag_tender"
 msgid "Tender"
-msgstr "Ténder"
+msgstr "Tendr"
 
 #v1.1.58
 msgctxt "tag_third_rail"
 msgid "Third rail"
-msgstr "Tercer raíl"
+msgstr "Trydydd rheilen"
 
 #v1.1.58
 msgctxt "tag_tilting"
 msgid "Tilting"
-msgstr "Pendular"
+msgstr "Gogwydd"
 
 #v1.1.58
 msgctxt "tag_tram"
@@ -5553,62 +5553,62 @@ msgstr "Tram"
 #v1.1.58
 msgctxt "tag_turbine"
 msgid "Turbine"
-msgstr "Turbina"
+msgstr "Tyrbin"
 
 #v1.1.58
 msgctxt "tag_tyres"
 msgid "Tyres"
-msgstr "Neumáticos"
+msgstr "Teiars"
 
 #v1.3.13
 msgctxt "tags_empty"
 msgid "<No tags>"
-msgstr "<Sin tags>"
+msgstr "<Dim tagiau>"
 
 #v1.1.58
 msgctxt "tags_gauge"
 msgid "Gauge"
-msgstr "Ancho de vía"
+msgstr "Lled rheilffordd"
 
 #v1.1.58
 msgctxt "tags_misc"
 msgid "Misc."
-msgstr "Misc."
+msgstr "Amryiol"
 
 #v1.1.58
 msgctxt "tags_power"
 msgid "Power"
-msgstr "Potencia"
+msgstr "Pŵr"
 
 #v1.1.58
 msgctxt "tags_role"
 msgid "Role"
-msgstr "Rol"
+msgstr "Rôl"
 
 #v1.1.58
 msgctxt "tags_units"
 msgid "Units"
-msgstr "Unidades"
+msgstr "Unedau"
 
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
 msgid "Drive on left for double platforms"
-msgstr "Circular por la izquierda en doble andén"
+msgstr "Drefio ar y chwith i ddwbl-platfform"
 
 #v1.2.29
 msgctxt "teo.plat_auto_scissors"
 msgid "Auto append scissor intersections and path signals for double platforms"
-msgstr "Auto añadir cambio cruzado y señales en doble andén"
+msgstr "Awto atodi croestoriadau siswrn a signalau llwybr i ddwbl-platfform"
 
 #v1.2.29
 msgctxt "teo.twoex_mode"
 msgid "Double track mode"
-msgstr "Modo de doble vía"
+msgstr "Modd amldrac"
 
 #v1.1.31
 msgctxt "time_h_m"
 msgid "{0}h {1}m"
-msgstr "{0}h {1}m"
+msgstr "{0}a {1}m"
 
 #v1.1.31
 msgctxt "time_m"
@@ -5618,292 +5618,292 @@ msgstr "{}m"
 #v1.1.31
 msgctxt "time_s"
 msgid "{}s"
-msgstr "{}s"
+msgstr "{}e"
 
 #v1.5.31
 msgctxt "timetable_1day"
 msgid "One day"
-msgstr "Un día"
+msgstr "Un dydd"
 
 #v1.5.31
 msgctxt "timetable_3days"
 msgid "Three days"
-msgstr "Tres días"
+msgstr "Tri dydd"
 
 #v1.5.31
 msgctxt "timetable_heuristic_building_tp"
 msgid "Refreshing pathfind heuristic..."
-msgstr "Actualizando heurísitca de caminos..."
+msgstr "Adnewyddu hewristig canfod llwybr..."
 
 #v1.5.31
 msgctxt "timetable_rebuild_tp"
 msgid "Rebuilding timetables..."
-msgstr "Actualizando horarios..."
+msgstr "Ailadeiladu amserlenni..."
 
 #v1.5.31
 msgctxt "timetable_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Wythnos"
 
 #v1.1.31
 msgctxt "title"
 msgid "Title:"
-msgstr "Título:"
+msgstr "Teitl:"
 
 #v1.5.31
 msgctxt "too_many_collections"
 msgid "Too many clips"
-msgstr "Demasiados clips"
+msgstr "Gormod o glipiau"
 
 #v1.5.31
 msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
-msgstr "Tu colección y suscripciones de clips han alcanzado el límite de 50,000 vías y edificios. Por favor borra algunos clips o desuscribe de algunas colecciones."
+msgstr "Mae eich clipiau gadwyd a tanysgrifiwyd yn cyrraedd cyfyngiad 50000 o draciau ac adeiladau. Dilewch rhai o glipiau a/neu di-danysgrifiwch o rhai o gasgliadau."
 
 #v1.2.22
 msgctxt "tooltip_demand"
 msgid "Local {0}%\nRegional {1}%\nLong distance {2}%"
-msgstr "Local {0}%\nRegional {1}%\nLarga distancia {2}%"
+msgstr "Lleol {0}%\nRhanbarthol {1}%\nPellter hir {2}%"
 
 #v1.1.31
 msgctxt "total"
 msgid "Total"
-msgstr "Total"
+msgstr "Cyfanswm"
 
 #v1.2.29
 msgctxt "track_all_kinds_info"
 msgid "Show all track kinds and pick your favorites"
-msgstr "Mostrar todos los tipos de vía y elegir favoritos"
+msgstr "Dangos pob math trac a dewis eich ffefrynnau"
 
 #v1.1.31
 msgctxt "track_editor"
 msgid "Tracks"
-msgstr "Vías"
+msgstr "Traciau"
 
 #v1.1.31
 msgctxt "track_hits"
 msgid "track hits"
-msgstr "choques con vía"
+msgstr "gwrthdrawiadau trac"
 
 #v1.2.29
 msgctxt "track_info_layer"
 msgid "Layer:"
-msgstr "Capa:"
+msgstr "Lefel:"
 
 #v1.2.29
 msgctxt "track_info_max_speed"
 msgid "Max speed:"
-msgstr "Vel. máxima:"
+msgstr "Cyflymder mwyaf:"
 
 #v1.2.29
 msgctxt "track_info_multi"
 msgid "Multiple selection"
-msgstr "Selección múltiple"
+msgstr "Aml-dewisiad"
 
 #v1.2.29
 msgctxt "track_info_price"
 msgid "Price:"
-msgstr "Precio:"
+msgstr "Pris:"
 
 #v1.2.29
 msgctxt "track_info_price_f"
 msgid "${} per km"
-msgstr "${} por km"
+msgstr "${} am km"
 
 #v1.2.29
 msgctxt "track_info_special"
 msgid "Special:"
-msgstr "Especial:"
+msgstr "Arbennig:"
 
 #v1.2.29
 msgctxt "track_info_special_no_collide_ways"
 msgid "Ignores roads"
-msgstr "Ignora calles"
+msgstr "Anwybyddu ffyrdd"
 
 #v1.2.29
 msgctxt "track_not_favorited"
 msgid "Not favorited"
-msgstr "No favorito"
+msgstr "Nid hoffwyd"
 
 #v1.2.29
 msgctxt "track_sort_alpha"
 msgid "Alphabetical"
-msgstr "Alfabético"
+msgstr "Yn nhrefn y wyddor"
 
 #v1.2.29
 msgctxt "track_sort_price"
 msgid "Price"
-msgstr "Precio"
+msgstr "Pris"
 
 #v1.2.29
 msgctxt "track_sort_speed"
 msgid "Max. speed"
-msgstr "Vel. máxima"
+msgstr "Cyflymder mwyaf"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
 msgid "Hide control points at low zoom"
-msgstr "Esconder puntos de control en zoom bajo"
+msgstr "Cuddio pwyntiau rheolaeth am chwyddo isaf"
 
 #v1.4.15
 msgctxt "tracks_total"
 msgid "Tracks total"
-msgstr "Total vías"
+msgstr "Cyfanswm traciau"
 
 #v1.3.13
 msgctxt "train_alert_banner"
 msgid "{} ({})\n{}\nSince: {} UTC{}"
-msgstr "{} ({})\n{}\Desde: {} UTC{}"
+msgstr "{} ({})\n{}\nErs: {} UTC{}"
 
 #v1.3.13
 msgctxt "train_alert_center_train"
 msgid "Go to train"
-msgstr "Ir a tren"
+msgstr "Mynd i drên"
 
 #v1.3.13
 msgctxt "train_alert_line_banner"
 msgid "{} ({} / {})\n{}\nSince: {} UTC{}"
-msgstr "{} ({} / {})\n{}\Desde: {} UTC{}"
+msgstr "{} ({} / {})\n{}\nErs: {} UTC{}"
 
 #v1.1.31
 msgctxt "train_base_color_edit"
 msgid "Base color:"
-msgstr "Color base:"
+msgstr "Lliw sail:"
 
 #v1.1.31
 msgctxt "train_bill"
 msgid "Train bill"
-msgstr "Factura de trenes"
+msgstr "Bil trên"
 
 #v1.1.31
 msgctxt "train_clone"
 msgid "Clone"
-msgstr "Clonar"
+msgstr "Clonio"
 
 #v1.5.31
 msgctxt "train_clone_copier"
 msgid "Clone as copier"
-msgstr "Clonar como copiador"
+msgstr "Clonio fel copiwr"
 
 #v1.1.31
 msgctxt "train_code_edit"
 msgid "Serial:"
-msgstr "N. serie:"
+msgstr "Cyfresol:"
 
 #v1.1.31
 msgctxt "train_decal_color_edit"
 msgid "Decal color:"
-msgstr "Color decor.:"
+msgstr "Lliw addurn:"
 
 #v1.1.31
 msgctxt "train_decal_edit"
 msgid "Decal:"
-msgstr "Decoración:"
+msgstr "Addurn:"
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
 msgid "Pick a decal"
-msgstr "Elige una decor."
+msgstr "Dewis addurn"
 
 #v1.1.31
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
-msgstr "Usa color línea"
+msgstr "Defynddio lliw y lein"
 
 #v1.5.31
 msgctxt "train_editor_basics"
 msgid "Basics"
-msgstr "Básico"
+msgstr "Hanfodion"
 
 #v1.5.31
 msgctxt "train_editor_group"
 msgid "Group"
-msgstr "Grupo"
+msgstr "Grŵp"
 
 #v1.5.31
 msgctxt "train_editor_orders"
 msgid "Orders"
-msgstr "Órdenes"
+msgstr "Gorchmynion"
 
 #v1.5.31
 msgctxt "train_group_duration"
 msgid "Duration:"
-msgstr "Duración:"
+msgstr "Parhad:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by"
 msgid "Interval:"
-msgstr "Intervalo:"
+msgstr "Cyfwng:"
 
 #v1.5.31
 msgctxt "train_group_fixed_shift_by_desc"
 msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar incrementalmente el inicio de las órdenes de los trenes copiadores por ese valor."
+msgstr "Ffurf: (-)aa:mm:ee\nSymud cychwyn gorchmynion y trenau awto-gopiwr ar cyfanswm hwn."
 
 #v1.5.31
 msgctxt "train_group_interval"
 msgid "Interval:"
-msgstr "Intervalo:"
+msgstr "Cyfwng:"
 
 #v1.5.31
 msgctxt "train_group_line_duration_pick"
 msgid "Duration of:"
-msgstr "Duración de:"
+msgstr "Parhad o:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount"
 msgid "Duration:"
-msgstr "Duración:"
+msgstr "Parhad:"
 
 #v1.5.31
 msgctxt "train_group_manual_duration_amount_desc"
 msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
-msgstr "Formato: hh:mm:ss\nDistribuir uniformemente el inicio de las órdenes de los trenes copiadores a lo largo de esta duración."
+msgstr "Ffurf: aa:mm:ee\nDosbarthu'r cychwyn gorchmynion y trenau awto-gopiwr dros y parhad hwn."
 
 #v1.5.31
 msgctxt "train_group_migrate_but"
 msgid "Set as copiers"
-msgstr "Cambiar a copiadores"
+msgstr "Gosod copiwyr"
 
 #v1.5.31
 msgctxt "train_group_migrate_line"
 msgid "Migrate auto run trains"
-msgstr "Migrar trenes automáticos"
+msgstr "Mudo trenau awto-rhedeg"
 
 #v1.5.31
 msgctxt "train_group_migrate_line_pick"
 msgid "Auto trains of:"
-msgstr "Trenes auto de:"
+msgstr "Trenau awto o:"
 
 #v1.5.31
 msgctxt "train_group_mode"
 msgid "Shift mode:"
-msgstr "Distribución:"
+msgstr "Modd sifft:"
 
 #v1.5.31
 msgctxt "train_group_mode_fixed"
 msgid "Fixed interval"
-msgstr "Intervalo fijo"
+msgstr "Cyfwng gosodedig"
 
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr "Uniforme en la duración de una línea"
+msgstr "Yn gyfartal dros parhad y lein"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
-msgstr "Uniforme en una duración manual"
+msgstr "Yn gyfartal dros parhad addasu"
 
 #v1.5.31
 msgctxt "train_group_n_name"
 msgid "Trains:"
-msgstr "Trenes:"
+msgstr "Trenau:"
 
 #v1.5.31
 msgctxt "train_group_n_value"
 msgid "{0} copying, {1} managed"
-msgstr "{0} copiando, {1} controlados"
+msgstr "{0} yn copïo, {1} rheolwyd"
 
 #v1.5.31
 msgctxt "train_group_shift_matching"
