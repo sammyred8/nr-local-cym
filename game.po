@@ -6468,167 +6468,167 @@ msgstr "Gadael yn union am"
 #v1.5.41
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
 msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
-msgstr "Cambia el tiempo más temprano posible que permite a la orden anterior no tener tiempo de espera extra\nIgnora los cambios no aplicados a los días de la semana o el inicio de la orden\nSolo se aplica al primer día de la orden"
+msgstr "Gosod amser i gyntaf bosib sy'n caniatáu i'r archeb flaenorol beidio â chael aros padio ar ei rediad olaf\nAnwybyddu golygiadau dydd yr wythnos ac amser cychwyn yn ystod\Bydd gorchmynion aml-dydd yn ystyried y dydd cyntaf yn unig"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_at"
 msgid "At:"
-msgstr "A:"
+msgstr "Am:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_by"
 msgid "Than:"
-msgstr "Las:"
+msgstr "Na:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_desc"
 msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
-msgstr "Formato: hh:mm:ss\nMomento del día para empezar los recorridos de la línea seleccionada."
+msgstr "Ffurf: aa:mm:ee\nAmser dydd i gychwyn un neu mwy rhediad y lein dewisedig."
 
 #v1.1.58
 msgctxt "traineditor_select_all"
 msgid "Select all listed trains"
-msgstr "Seleccionar todos los trenes listados"
+msgstr "Dewis pob trenau yn rhestr"
 
 #v1.1.37
 msgctxt "traineditor_sell_all_selected"
 msgid "Sell selected trains"
-msgstr "Vender trenes seleccionados"
+msgstr "Gwerthu pob trenau dewisedig"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_buy_mode"
 msgid "Purchase new trains"
-msgstr "Comprar nuevos trenes"
+msgstr "Prynu trenau newydd"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_list_mode"
 msgid "List trains and edit their details and schedule"
-msgstr "Listar trenes y editar sus detalles y programación"
+msgstr "Rhestru trenau a golygu eu manylion ac amserlen"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_sched_mode"
 msgid "Edit the schedule of multiple trains simultaneously"
-msgstr "Editar la programación de múltiples trenes simultaneamente"
+msgstr "Golygu'r amserlen trenau amryfal yn cydamserol"
 
 #v1.1.37
 msgctxt "traineditor_tooltip_sell"
 msgid "Sell selected train"
-msgstr "Vender tren seleccionado"
+msgstr "Gwerthu tren dewisedig"
 
 #v1.5.31
 msgctxt "traineditor_tz"
 msgid "Time zone:"
-msgstr "Zona horaria:"
+msgstr "Cylchfa amser:"
 
 #v1.5.31
 msgctxt "traineditor_tz_desc"
 msgid "Time zone used for order time/day input."
-msgstr "Zona horaria utilizada para introducir las horas y días."
+msgstr "Cylchfa amser sy'n defnyddio ar gyfer mewnbwn amser/dydd y gorchymyn."
 
 #v1.5.31
 msgctxt "traineditor_tz_first_line"
 msgid "First line time zone"
-msgstr "Zona horaria de la primera línea"
+msgstr "Cylchfa amser y lein cyntaf"
 
 #v1.5.31
 msgctxt "traineditor_tz_map"
 msgid "Map"
-msgstr "Mapa"
+msgstr "Map"
 
 #v1.5.31
 msgctxt "traineditor_tz_orders"
 msgid "Orders"
-msgstr "Órdenes"
+msgstr "Gorchmynion"
 
 #v1.5.31
 msgctxt "traineditor_tz_station"
 msgid "Station"
-msgstr "Estación"
+msgstr "Gorsaf"
 
 #v1.1.31
 msgctxt "trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trenau"
 
 #v1.1.31
 msgctxt "trains_n_0"
 msgid "0 trains"
-msgstr "0 trenes"
+msgstr "0 trên"
 
 #v1.1.31
 msgctxt "trains_n_1"
 msgid "1 train"
-msgstr "1 tren"
+msgstr "1 trên"
 
 #v1.1.31
 msgctxt "trains_n_many"
 msgid "%d trains"
-msgstr "%d trenes"
+msgstr "%d trên"
 
 #v1.1.58
 msgctxt "transfers_to"
 msgid "Transfers to {}"
-msgstr "Transbordo a {}"
+msgstr "Troslwyddo i {}"
 
 #v1.1.31
 msgctxt "ugc_error_conn"
 msgid "Error while connecting with Steamworks"
-msgstr "Error conectando a Steamworks"
+msgstr "Gwall pan cysylltu i Steamworks"
 
 #v1.1.31
 msgctxt "ugc_error_logged"
 msgid "Must be logged into Steam to perform this action"
-msgstr "Hay que estar dentro de Steam para ejecutar esta acción"
+msgstr "Rhaid mewngofnodi i Steam i gyflawni'r weithred hon"
 
 #v1.1.31
 msgctxt "ugc_error_priv"
 msgid "Not enough privileges with the current user account in Steam"
-msgstr "No hay suficientes privilegios con la cuenta actual de Steam"
+msgstr "Dim digon o freintiau gyda defnyddiwr cyfredol yn Steam"
 
 #v1.1.31
 msgctxt "ugc_error_timeout"
 msgid "Timeout while connecting with Steam"
-msgstr "Timeout conectando a Steam"
+msgstr "Terfyn amser pan cysylltu i Steam"
 
 #v1.1.31
 msgctxt "ugc_some_rule_req"
 msgid "Selected local mod is empty"
-msgstr "El mod local seleccionado está vacío"
+msgstr "Addasiad lleol dewisedig yn gwag"
 
 #v1.1.31
 msgctxt "ugc_valid_desc_req"
 msgid "Description is required"
-msgstr "Descripción es obligatoria"
+msgstr "Disgrifiad yn gofynnol"
 
 #v1.1.31
 msgctxt "ugc_valid_desc_too_long"
 msgid "Description is too long"
-msgstr "Description demasiado larga"
+msgstr "Disgrifiad rhy hir"
 
 #v1.1.31
 msgctxt "ugc_valid_folder_req"
 msgid "A valid local mod is required"
-msgstr "Se requiere un mod local"
+msgstr "Addasiad lleol dilys yn gofynnol"
 
 #v1.1.31
 msgctxt "ugc_valid_image_req"
 msgid "An icon image file is required"
-msgstr "Se requiere una imagen de icono"
+msgstr "Ffeil eicon yn gofynnol"
 
 #v1.1.37
 msgctxt "ugc_valid_title_req"
 msgid "Title is required"
-msgstr "Título obligatorio"
+msgstr "Teitl yn gofynnol"
 
 #v1.1.31
 msgctxt "ugc_valid_title_too_long"
 msgid "Title is too long"
-msgstr "Título demasiado largo"
+msgstr "Teitl rhy hir"
 
 #v1.1.31
 msgctxt "ugc_warn_already"
 msgid "A Mod is still being created and/or updated, please wait"
-msgstr "Se está subiendo o creando un mod, espera por favor"
+msgstr "Mae addasiad yn creu a/neu diweddaru, aroswch os gwelwch yn dda"
 
 #v1.1.72
 msgctxt "unit_kmh"
@@ -6638,32 +6638,32 @@ msgstr "km/h"
 #v1.1.72
 msgctxt "unit_pax"
 msgid "pax"
-msgstr "pax"
+msgstr "teithwyr"
 
 #v1.1.31
 msgctxt "unknown"
 msgid "Unknown"
-msgstr "Desconocido"
+msgstr "Anhysbys"
 
 #v1.2.29
 msgctxt "unlimited_depth"
 msgid "Unlimited depth"
-msgstr "Profundidad ilimitada"
+msgstr "Dyfnder diderfyn"
 
 #v1.2.29
 msgctxt "unlimited_height"
 msgid "Unlimited height"
-msgstr "Altura ilimitada"
+msgstr "Uchder diderfyn"
 
 #v1.1.31
 msgctxt "update_note"
 msgid "Update note:"
-msgstr "Nota update:"
+msgstr "Nodyn diweddaru:"
 
 #v1.1.31
 msgctxt "upload_mod"
 msgid "Upload mod"
-msgstr "Subir mod"
+msgstr "Llwytho addasiad i fyny"
 
 #v1.4.15
 msgctxt "use_placeholders"
@@ -6673,22 +6673,22 @@ msgstr "Copïo gyda ymgorfforwyd"
 #v1.1.37
 msgctxt "used_active_mod"
 msgid "This mod is used by one or more objects in the game, and cannot be disabled."
-msgstr "Este mod está en uso por uno o más objetos en el juego, y no se puede desactivar."
+msgstr "Mae'r addasiad hwn yn defynddio gan un neu mwy gwrthrychau mewn gêm, a ni ellir analluogi."
 
 #v1.2.22
 msgctxt "user_signal_light_cones"
 msgid "Signal light cones"
-msgstr "Cono de luz de señales"
+msgstr "Conau goleuni signal"
 
 #v1.1.31
 msgctxt "view_in_workshop"
 msgid "View in Workshop"
-msgstr "Ver en Workshop"
+msgstr "Gweld mewn Workshop"
 
 #v1.1.31
 msgctxt "visibility"
 msgid "Visibility:"
-msgstr "Visibilidad:"
+msgstr "Gwelededd:"
 
 #v1.1.31
 msgctxt "vsync_mode"
@@ -6698,32 +6698,32 @@ msgstr "VSync:"
 #v1.5.31
 msgctxt "waiting_expired"
 msgid "Expired"
-msgstr "Caducado"
+msgstr "Terfynwyd"
 
 #v1.2.29
 msgctxt "warn_mod_in_use"
 msgid "Mod is in use"
-msgstr "Mod está en uso"
+msgstr "Addasiad yn cael ei defynddio"
 
 #v1.1.31
 msgctxt "warning"
 msgid "Warning"
-msgstr "Alerta"
+msgstr "Rhybudd"
 
 #v1.2.29
 msgctxt "waw_track_hs_1_name"
 msgid "High speed"
-msgstr "Alta velocidad"
+msgstr "Cyflymder mawr"
 
 #v1.2.29
 msgctxt "waw_track_mid_1_name"
 msgid "Medium speed"
-msgstr "Velocidad mediana"
+msgstr "Cyflymder canolig"
 
 #v1.2.29
 msgctxt "waw_track_tram_1_name"
 msgid "Tram"
-msgstr "Tranvía"
+msgstr "Tramffordd"
 
 #v1.1.31
 msgctxt "waypoint"
@@ -6733,82 +6733,82 @@ msgstr "Cyfeirbwynt"
 #v1.5.31
 msgctxt "wedge_mode"
 msgid "Show trip legs as rhombus to better reflect the initial wait time"
-msgstr "Mostrar los pasos del camino como rombos para reflejar la espera inicial"
+msgstr "Dangos rhannau y taith fel rhombws i ystyried yr amser aros cychwynnol"
 
 #v1.1.31
 msgctxt "weekday_friday"
 msgid "Friday"
-msgstr "Viernes"
+msgstr "Gwener"
 
 #v1.1.31
 msgctxt "weekday_monday"
 msgid "Monday"
-msgstr "Lunes"
+msgstr "Llun"
 
 #v1.1.31
 msgctxt "weekday_saturday"
 msgid "Saturday"
-msgstr "Sábado"
+msgstr "Sadwrn"
 
 #v1.1.31
 msgctxt "weekday_short_friday"
 msgid "Fri"
-msgstr "Vie"
+msgstr "Gwe"
 
 #v1.1.31
 msgctxt "weekday_short_monday"
 msgid "Mon"
-msgstr "Lun"
+msgstr "Llun"
 
 #v1.1.31
 msgctxt "weekday_short_saturday"
 msgid "Sat"
-msgstr "Sáb"
+msgstr "Sad"
 
 #v1.1.31
 msgctxt "weekday_short_sunday"
 msgid "Sun"
-msgstr "Dom"
+msgstr "Sul"
 
 #v1.1.31
 msgctxt "weekday_short_thursday"
 msgid "Thu"
-msgstr "Jue"
+msgstr "Iau"
 
 #v1.1.31
 msgctxt "weekday_short_tuesday"
 msgid "Tue"
-msgstr "Mar"
+msgstr "Maw"
 
 #v1.1.31
 msgctxt "weekday_short_wednesday"
 msgid "Wed"
-msgstr "Mié"
+msgstr "Mer"
 
 #v1.5.31
 msgctxt "weekday_shorter_friday"
 msgid "Fr"
-msgstr "Vi"
+msgstr "Gw"
 
 #v1.5.31
 msgctxt "weekday_shorter_monday"
 msgid "Mo"
-msgstr "Lu"
+msgstr "Ll"
 
 #v1.5.31
 msgctxt "weekday_shorter_saturday"
 msgid "Sa"
-msgstr "Sá"
+msgstr "Sa"
 
 #v1.5.31
 msgctxt "weekday_shorter_sunday"
 msgid "Su"
-msgstr "Do"
+msgstr "Su"
 
 #v1.5.31
 msgctxt "weekday_shorter_thursday"
 msgid "Th"
-msgstr "Ju"
+msgstr "Ia"
 
 #v1.5.31
 msgctxt "weekday_shorter_tuesday"
@@ -6818,45 +6818,45 @@ msgstr "Ma"
 #v1.5.31
 msgctxt "weekday_shorter_wednesday"
 msgid "We"
-msgstr "Mi"
+msgstr "Me"
 
 #v1.1.31
 msgctxt "weekday_sunday"
 msgid "Sunday"
-msgstr "Domingo"
+msgstr "Sul"
 
 #v1.1.31
 msgctxt "weekday_thursday"
 msgid "Thursday"
-msgstr "Jueves"
+msgstr "Iau"
 
 #v1.1.31
 msgctxt "weekday_tuesday"
 msgid "Tuesday"
-msgstr "Martes"
+msgstr "Mawrth"
 
 #v1.1.31
 msgctxt "weekday_wednesday"
 msgid "Wednesday"
-msgstr "Miércoles"
+msgstr "Mercher"
 
 #v1.1.31
 msgctxt "workshop_more_langs"
 msgid "More languages"
-msgstr "Más idiomas"
+msgstr "Mwy o iethioedd"
 
 #v1.1.31
 msgctxt "wrong_length"
 msgid "wrong length"
-msgstr "longitud inválida"
+msgstr "hyd drwg"
 
 #v1.1.37
 msgctxt "wrong_protocol_desc"
 msgid "Your serialization and protocol do not match with the server. Make sure both your game and the server are running exactly the same game version, as displayed in the main menu."
-msgstr "Tu versión del juego no coincide con la del anfitrión. Asegúrate que tanto tu juego como el del anfitrión son la misma versión, como se muestra en el menú principal."
+msgstr "Nid yw eich cyfresoli a'ch protocol yn cyd-fynd â'r gweinydd. Sicrhau eich gêm a'r gweinydd yn rhedeg y fersiwn yr un fath, fel arddangos yn y prif ddewislen."
 
 #v1.1.37
 msgctxt "wrong_schema_mod"
 msgid "This mod data is enabled in the current game, but its installed files require a newer game version. Update the game."
-msgstr "Los datos de este mod está activados en la partida, pero sus archivos requieren una versión más nueva del juego. Actualiza el juego."
+msgstr "Mae'r addasiad hwn yw galluogwyd yn y gêm cyfredol, ond ei ffeilau yn gofyn fersiwn newyddach. Diweddarwch y gêm."
 
