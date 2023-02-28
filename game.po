@@ -5908,47 +5908,47 @@ msgstr "{0} yn copïo, {1} rheolwyd"
 #v1.5.31
 msgctxt "train_group_shift_matching"
 msgid "Shift orders:"
-msgstr "Distribuir órdenes:"
+msgstr "Symud gorchmynion:"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_all"
 msgid "All orders"
-msgstr "Todas"
+msgstr "Pob gorchmynion"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_only_pax_service"
 msgid "Only pax service orders"
-msgstr "Solo las de líneas de pax"
+msgstr "Dim ond gorchmynion gwasanaeth teithwyr"
 
 #v1.1.58
 msgctxt "train_info_arrives"
 msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Llega en {0}, {1:.1f} km de {2:.1f} km"
+msgstr "Cyrraedd yn {0}, {1:.1f} km o {2:.1f} km"
 
 #v1.1.58
 msgctxt "train_info_car_name"
 msgid "Car:"
-msgstr "Coche:"
+msgstr "Cerbyd:"
 
 #v1.1.58
 msgctxt "train_info_departs"
 msgid "Departs in {}"
-msgstr "Salida en {}"
+msgstr "Gadael yn {}"
 
 #v1.1.58
 msgctxt "train_info_departs_from"
 msgid "Departs in {0} from {1}"
-msgstr "Salida en {0} desde {1}"
+msgstr "Gadael yn {0} o {1}"
 
 #v1.1.31
 msgctxt "train_info_destination"
 msgid "Destination:"
-msgstr "Destino:"
+msgstr "Pen taith:"
 
 #v1.1.31
 msgctxt "train_info_dim"
 msgid "Dimensions:"
-msgstr "Dimensiones:"
+msgstr "Dimensiynau:"
 
 #v1.1.58
 msgctxt "train_info_dim_car"
@@ -5958,357 +5958,357 @@ msgstr "{0:.2f}m / {1:.2f}m"
 #v1.1.58
 msgctxt "train_info_dim_d"
 msgid "{0} units / {1:.2f}m / {2:.2f}m"
-msgstr "{0} unidades / {1:.2f}m / {2:.2f}m"
+msgstr "{0} uned / {1:.2f}m / {2:.2f}m"
 
 #v1.1.37
 msgctxt "train_info_dynamics"
 msgid "Dynamics:"
-msgstr "Dinámica:"
+msgstr "Dynamig:"
 
 #v1.1.31
 msgctxt "train_info_empty_mass"
 msgid "Empty mass:"
-msgstr "Masa vacío:"
+msgstr "Màs gwag:"
 
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Retraso de {0}, {1:.1f} km de {2:.1f} km"
+msgstr "Yn diweddar {0}, {1:.1f} km o {2:.1f} km"
 
 #v1.5.41
 msgctxt "train_info_late_predicted"
 msgid "Est. late by {}"
-msgstr "Retraso est. {}"
+msgstr "Amcangyfrif yn diweddar {}"
 
 #v1.1.31
 msgctxt "train_info_line"
 msgid "Line:"
-msgstr "Línea:"
+msgstr "Lein:"
 
 #v1.1.31
 msgctxt "train_info_location"
 msgid "Location:"
-msgstr "Lugar:"
+msgstr "Lleoliad:"
 
 #v1.1.37
 msgctxt "train_info_maintenance_cost"
 msgid "Maintenance cost:"
-msgstr "Coste mantenimiento:"
+msgstr "Pris cynnal a chadw:"
 
 #v1.1.31
 msgctxt "train_info_maintenance_cost_f"
 msgid "${} per day"
-msgstr "${} por día"
+msgstr "${} dyddiol"
 
 #v1.1.31
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
-msgstr "Masa / vacío:"
+msgstr "Màs / gwag:"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
 msgid "Max pax:"
-msgstr "Max pax:"
+msgstr "Uchafswm teithwyr:"
 
 #v1.1.31
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "Max velocidad:"
+msgstr "Uchafswm cyflymder:"
 
 #v1.1.31
 msgctxt "train_info_pax"
 msgid "Pax / max:"
-msgstr "Pax / max:"
+msgstr "Teithwyr / uchafswm:"
 
 #v1.1.58
 msgctxt "train_info_power"
 msgid "Power:"
-msgstr "Potencia:"
+msgstr "Pŵr:"
 
 #v1.1.72
 msgctxt "train_info_price"
 msgid "Price:"
-msgstr "Precio:"
+msgstr "Pris:"
 
 #v1.1.31
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
-msgstr "Coste circulación:"
+msgstr "Pris rhedeg:"
 
 #v1.1.31
 msgctxt "train_info_running_cost_f"
 msgid "${:.4} per km per pax"
-msgstr "${:.4} por km por pax"
+msgstr "${:.4} o km o deithiwr"
 
 #v1.1.31
 msgctxt "train_info_speed"
 msgid "Speed / max:"
-msgstr "Velocidad / max:"
+msgstr "Cyflymder / uchafswm:"
 
 #v1.1.31
 msgctxt "train_info_status"
 msgid "Status:"
-msgstr "Estado:"
+msgstr "Statws:"
 
 #v1.3.13
 msgctxt "train_info_status_busy_track"
 msgid "Track is occupied or reserved"
-msgstr "Vía ocupada o reservada"
+msgstr "Mae trac yn meddiannu neu neilltuo"
 
 #v1.1.31
 msgctxt "train_info_status_circulation"
 msgid "Running"
-msgstr "Circulando"
+msgstr "Rhedeg"
 
 #v1.2.22
 msgctxt "train_info_status_collision"
 msgid "Collision"
-msgstr "Colisión"
+msgstr "Gwrthdrawiad"
 
 #v1.1.31
 msgctxt "train_info_status_in_storage"
 msgid "Stored"
-msgstr "Almacenado"
+msgstr "Storiwyd"
 
 #v1.3.13
 msgctxt "train_info_status_line_closed"
 msgid "Line is closed"
-msgstr "Line cerrada"
+msgstr "Lein ar gau"
 
 #v1.1.31
 msgctxt "train_info_status_lost_or_bad_orders"
 msgid "Lost or bad orders"
-msgstr "Perdido u orden inválida"
+msgstr "Gorchmynion ar goll neu gwael"
 
 #v1.1.31
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
-msgstr "Sin camino a destino"
+msgstr "Dim llwybr i ben taith"
 
 #v1.3.13
 msgctxt "train_info_status_signal_wait"
 msgid "Waiting at signal"
-msgstr "Esperando señal"
+msgstr "Aros am signal"
 
 #v1.5.31
 msgctxt "train_info_status_waiting_spawn"
 msgid "Waiting for scheduled spawn"
-msgstr "Esperando según el horario"
+msgstr "Aros am sil amserlennu"
 
 #v1.1.31
 msgctxt "train_info_storing"
 msgid "Storing in:"
-msgstr "Almacenado en:"
+msgstr "Storio yn:"
 
 #v1.1.37
 msgctxt "train_info_total_power"
 msgid "Total power:"
-msgstr "Potencia total"
+msgstr "Cyfanswm pŵr:"
 
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
-msgstr "Esta intervención programa el recorrido actual correcto, coloca al tren en la parada vigente, y desplaza a los pax a sus siguientes paradas. El precio es ${}."
+msgstr "Bydd yr ymyriad hwn yn ailosod y rhediad trên i ddilyn ei orchmynion cyfredol, ei ailsilio ar ei ben taith nesaf, ac adeloli ei deithwyr i'w arosiadau nesaf. Mae'r pris yw ${}."
 
 #v1.1.31
 msgctxt "train_intervention_dialog_title"
 msgid "Train intervention"
-msgstr "Intervenir tren"
+msgstr "Ymyriad trên"
 
 #v1.1.31
 msgctxt "train_invalid_order"
 msgid "Invalid order"
-msgstr "Orden inválida"
+msgstr "Gorchymyn annilys"
 
 #v1.5.41
 msgctxt "train_list_compact"
 msgid "Compact"
-msgstr "Compacto"
+msgstr "Cryno"
 
 #v1.5.31
 msgctxt "train_list_filter_alert_short"
 msgid "Warnings"
-msgstr "Alertas"
+msgstr "Rhybuddion"
 
 #v1.5.31
 msgctxt "train_list_filter_all"
 msgid "All trains"
-msgstr "Todos los trenes"
+msgstr "Pob trenau"
 
 #v1.5.31
 msgctxt "train_list_filter_all_short"
 msgid "All"
-msgstr "Todos"
+msgstr "Pob"
 
 #v1.1.37
 msgctxt "train_list_filter_by_line"
 msgid "Group by line"
-msgstr "Agrupar por línea"
+msgstr "Grwpio yn lein"
 
 #v1.3.13
 msgctxt "train_list_filter_by_line_tags"
 msgid "Group by line tags"
-msgstr "Agrupar por tags de línea"
+msgstr "Grwpio yn tagiau lein"
 
 #v1.1.37
 msgctxt "train_list_filter_by_model"
 msgid "Group by model"
-msgstr "Agrupar por modelo"
+msgstr "Grwpio yn model"
 
 #v1.5.31
 msgctxt "train_list_filter_flat"
 msgid "Flat listing"
-msgstr "Listado plano"
+msgstr "Rhestr gwastad"
 
 #v1.5.31
 msgctxt "train_list_filter_manual"
 msgid "Only with manual orders"
-msgstr "Solo con órdenes manuales"
+msgstr "Dim ond y rhai gyda gorchmynion addasu"
 
 #v1.5.31
 msgctxt "train_list_filter_manual_short"
 msgid "Manual orders"
-msgstr "Órdenes manuales"
+msgstr "Gorchmynion addasu"
 
 #v1.5.31
 msgctxt "train_list_filter_mothballed"
 msgid "Only mothballed"
-msgstr "Solo retirados"
+msgstr "Ciliwyd yn unig"
 
 #v1.5.31
 msgctxt "train_list_filter_mothballed_short"
 msgid "Mothballed"
-msgstr "Retirados"
+msgstr "Ciliwyd"
 
 #v1.3.13
 msgctxt "train_list_filter_tags"
 msgid "Group by tags"
-msgstr "Agrupar por tags"
+msgstr "Grwpion yn tagiau"
 
 #v1.1.31
 msgctxt "train_model_edit"
 msgid "Model:"
-msgstr "Modelo:"
+msgstr "Model:"
 
 #v1.1.58
 msgctxt "train_n_copies"
 msgid "Trains:"
-msgstr "Trenes:"
+msgstr "Trenau:"
 
 #v1.1.31
 msgctxt "train_name_edit"
 msgid "Name:"
-msgstr "Nombre:"
+msgstr "Enw:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy"
 msgid "Auto copy from:"
-msgstr "Auto copia de:"
+msgstr "Awtogopïo o:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode"
 msgid "Shift:"
-msgstr "Distribuir:"
+msgstr "Symud:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_auto"
 msgid "Managed by parent group"
-msgstr "Controlador por el original"
+msgstr "Rheolwyd gan grŵp rhiant"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_manual"
 msgid "Shift by manual amount"
-msgstr "Desplazar con valor manual"
+msgstr "Symud swm addasu"
 
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift"
 msgid "Copy:"
-msgstr "Copiar:"
+msgstr "Copïo:"
 
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift_go_parent"
 msgid "Edit parent orders"
-msgstr "Editar órdenes del padre"
+msgstr "Golygu gorchmynion y rhiant"
 
 #v1.5.31
 msgctxt "train_orders_auto_run"
 msgid "Auto run line:"
-msgstr "Linea automática"
+msgstr "Awtoredeg y lein"
 
 #v1.5.31
 msgctxt "train_orders_keep_line"
 msgid "< Keep current line >"
-msgstr "< Mantener actual >"
+msgstr "< Cadw lein cyfredol >"
 
 #v1.5.31
 msgctxt "train_orders_mode"
 msgid "Orders:"
-msgstr "Órdenes:"
+msgstr "Gorchmynion:"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_copy"
 msgid "Auto copy manual orders"
-msgstr "Auto copiar órdenes manuales"
+msgstr "Awtogopïo gorchymnion addasu"
 
 #v1.5.31
 msgctxt "train_orders_mode_auto_line"
 msgid "Auto run a line"
-msgstr "Auto recorrer línea"
+msgstr "Awtoredeg lein"
 
 #v1.5.31
 msgctxt "train_orders_mode_manual"
 msgid "Manual orders"
-msgstr "Órdenes manules"
+msgstr "Gorchmynion addasu"
 
 #v1.5.31
 msgctxt "train_orders_mode_mothballed"
 msgid "Mothballed"
-msgstr "Retirado"
+msgstr "Ciliwyd"
 
 #v1.5.31
 msgctxt "train_orders_run_short"
 msgid "Run line:"
-msgstr "Línea:"
+msgstr "Rhedeg lein:"
 
 #v1.1.72
 msgctxt "train_price"
 msgid "Train price:"
-msgstr "Precio del tren:"
+msgstr "Pris trên:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
 msgid "Not enough money for purchase"
-msgstr "No hay suficiente dinero para la compra"
+msgstr "Dim digon o arian i brynu"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash_desc"
 msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
-msgstr "No hay suficiente dinero para comprar los trenes. Elige un tren más barato, menos trenes, menos coches, o consigue más dinero."
+msgstr "Dim digon o arian i brynu'r trên/trenau. Dewiswch trên rhatach, chwaethach o drenau, chwaethach o gerbydau, neu enillwch mwy o arian."
 
 #v1.5.31
 msgctxt "train_run"
 msgid "Run"
-msgstr "Recorrido"
+msgstr "Rhedge"
 
 #v1.5.31
 msgctxt "train_sort_alpha"
 msgid "Alphabetically"
-msgstr "Alfabético"
+msgstr "Yn nhrefn yr wyddor"
 
 #v1.5.31
 msgctxt "train_spawn_at"
 msgid "Spawns in {}"
-msgstr "Aparece en {}"
+msgstr "Silio yn {}"
 
 #v1.5.31
 msgctxt "train_spawn_late"
 msgid "Spawns late by {}"
-msgstr "Aparece tarde por {}"
+msgstr "Silio y diweddar {}"
 
 #v1.5.31
 msgctxt "train_status_mothballed"
 msgid "Mothballed"
-msgstr "Retirado"
+msgstr "Ciliwyd"
 
 #v1.1.58
 msgctxt "train_texture_info"
@@ -6323,147 +6323,147 @@ msgstr "IGNORE Train textures:"
 #v1.1.72
 msgctxt "train_total_price_1"
 msgid "Total for 1 train:"
-msgstr "Total para 1 tren:"
+msgstr "Cyfanswm am 1 trên:"
 
 #v1.1.72
 msgctxt "train_total_price_many"
 msgid "Total for %d trains:"
-msgstr "Total para %d trenes:"
+msgstr "Total am %d trên:"
 
 #v1.1.58
 msgctxt "train_units_inst"
 msgid "Units:"
-msgstr "Unidades:"
+msgstr "Unedau:"
 
 #v1.5.31
 msgctxt "traineditor_auto_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start of the auto copied orders by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar la auto copia por este valor."
+msgstr "Ffurf: (-)aa:mm:ee\nSymud cychwyn y gorchmynion awtogopiwyd gan swm hwn."
 
 #v1.1.31
 msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
-msgstr "Limpiar selección"
+msgstr "Clirio dewisiad"
 
 #v1.1.37
 msgctxt "traineditor_move_camera"
 msgid "Focus camera when selecting a train"
-msgstr "Centrar la cámara al seleccionar un tren"
+msgstr "Ffocysu'r camera pan dewis trên"
 
 #v1.5.31
 msgctxt "traineditor_order_append"
 msgid "Append new order"
-msgstr "Añadir nueva orden"
+msgstr "Atodi gorchymyn newydd"
 
 #v1.5.31
 msgctxt "traineditor_order_append_action"
 msgid "Append new order"
-msgstr "Añadir nueva orden"
+msgstr "Atodi gorchymyn newydd"
 
 #v1.5.31
 msgctxt "traineditor_order_bulk_edit"
 msgid "Bulk edit orders"
-msgstr "Editar múltiples órdenes"
+msgstr "Swmp golygu gorchmynion"
 
 #v1.5.31
 msgctxt "traineditor_order_edit"
 msgid "Edit orders"
-msgstr "Editar órdenes"
+msgstr "Golygu gorchmynion"
 
 #v1.5.31
 msgctxt "traineditor_order_edit_action_multi"
 msgid "Bulk shift and change"
-msgstr "Desplazar y cambiar"
+msgstr "Swmp symud a newid"
 
 #v1.5.31
 msgctxt "traineditor_order_edit_action_single"
 msgid "Change one order"
-msgstr "Cambiar orden"
+msgstr "Newid gorchymyn"
 
 #v1.5.31
 msgctxt "traineditor_order_enter"
 msgid "Enter:"
-msgstr "Entrada:"
+msgstr "Rhoi:"
 
 #v1.5.31
 msgctxt "traineditor_order_enter_first_stop"
 msgid "<First line stop>"
-msgstr "<Primera parada>"
+msgstr "<Arhosiad cyntaf y lein>"
 
 #v1.5.31
 msgctxt "traineditor_order_exit"
 msgid "Exit:"
-msgstr "Salida:"
+msgstr "Gadael:"
 
 #v1.5.31
 msgctxt "traineditor_order_exit_last_stop"
 msgid "<Last line stop>"
-msgstr "<Última parada>"
+msgstr "<Arhosiad olaf y lein>"
 
 #v1.5.31
 msgctxt "traineditor_order_loops"
 msgid "Loop until next order"
-msgstr "Repetir hasta siguiente orden"
+msgstr "Dolennu tan gorchymyn nesaf"
 
 #v1.5.31
 msgctxt "traineditor_order_select_all"
 msgid "Select all orders"
-msgstr "Seleccionar todas las órdenes"
+msgstr "Dewis pob gorchmynion"
 
 #v1.5.31
 msgctxt "traineditor_order_select_copy"
 msgid "Copy selected orders"
-msgstr "Copiar órdenes seleccionadas"
+msgstr "Copïo gorchmynion dewisedig"
 
 #v1.5.31
 msgctxt "traineditor_order_select_del"
 msgid "Delete selected orders"
-msgstr "Borrar órdenes seleccionadas"
+msgstr "Dileu gorchmynion dewisedig"
 
 #v1.5.31
 msgctxt "traineditor_order_select_none"
 msgid "Clear selection"
-msgstr "Cancelar selección"
+msgstr "Clirio dewisiad"
 
 #v1.5.31
 msgctxt "traineditor_order_select_paste"
 msgid "Paste orders"
-msgstr "Pegar órdenes"
+msgstr "Gludo gorchmynion"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_by"
 msgid "By:"
-msgstr "Por:"
+msgstr "Gan:"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_time"
 msgid "Shift:"
-msgstr "Desplazar:"
+msgstr "Symud:"
 
 #v1.5.31
 msgctxt "traineditor_order_shift_time_desc"
 msgid "Format: (-)hh:mm:ss\nShift the start time of the selected orders by this amount."
-msgstr "Formato: (-)hh:mm:ss\nDesplazar el inicio de las órdenes por este valor."
+msgstr "Ffurf: (-)aa:mm:ee\nSymud amser cychwyn y gorchmynion dewisedig gan y swm hwn."
 
 #v1.5.31
 msgctxt "traineditor_order_start_event"
 msgid "Enter event:"
-msgstr "Ev. entrada:"
+msgstr "Digwyddiad rhoi:"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_arrival"
 msgid "Arrive exactly at"
-msgstr "Llegar exactamente"
+msgstr "Cyrraedd yn union am"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_arrival_by"
 msgid "Arrive no later than"
-msgstr "Llegar antes de"
+msgstr "Cyrraedd nid yn diweddarach na"
 
 #v1.5.31
 msgctxt "traineditor_order_start_event_departure"
 msgid "Depart exactly at"
-msgstr "Salir exactamente"
+msgstr "Gadael yn union am"
 
 #v1.5.41
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
